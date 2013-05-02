@@ -1,0 +1,5 @@
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintMyFullName\bin\Debug\PrintMyFullName.exe.config
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintMyFullName\bin\Debug\PrintMyFullName.exe
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintMyFullName\bin\Debug\PrintMyFullName.pdb
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintMyFullName\obj\Debug\PrintMyFullName.exe
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintMyFullName\obj\Debug\PrintMyFullName.pdb
