@@ -1,0 +1,5 @@
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintAgeAfter10Years\bin\Debug\PrintAgeAfter10Years.exe.config
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintAgeAfter10Years\bin\Debug\PrintAgeAfter10Years.exe
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintAgeAfter10Years\bin\Debug\PrintAgeAfter10Years.pdb
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintAgeAfter10Years\obj\Debug\PrintAgeAfter10Years.exe
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintAgeAfter10Years\obj\Debug\PrintAgeAfter10Years.pdb
