@@ -1,0 +1,5 @@
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\SquareOf12345\bin\Debug\SquareOf12345.exe.config
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\SquareOf12345\bin\Debug\SquareOf12345.exe
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\SquareOf12345\bin\Debug\SquareOf12345.pdb
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\SquareOf12345\obj\Debug\SquareOf12345.exe
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\SquareOf12345\obj\Debug\SquareOf12345.pdb
