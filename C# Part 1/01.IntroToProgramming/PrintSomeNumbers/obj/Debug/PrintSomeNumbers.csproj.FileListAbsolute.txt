@@ -1,0 +1,5 @@
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintSomeNumbers\bin\Debug\PrintSomeNumbers.exe.config
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintSomeNumbers\bin\Debug\PrintSomeNumbers.exe
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintSomeNumbers\bin\Debug\PrintSomeNumbers.pdb
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintSomeNumbers\obj\Debug\PrintSomeNumbers.exe
+D:\Telerik\Exercises\C# Part 1\01.IntroToProgramming\PrintSomeNumbers\obj\Debug\PrintSomeNumbers.pdb
