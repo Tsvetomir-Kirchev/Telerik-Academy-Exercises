@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialRendering", "PartialRendering\PartialRendering.csproj", "{FB8BD805-EA8C-4443-97B5-0A03FAA14C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavascriptRendering", "JavascriptRendering\JavascriptRendering.csproj", "{F98A214B-4A45-4F71-9CE6-AAF759CF0CB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8BD805-EA8C-4443-97B5-0A03FAA14C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8BD805-EA8C-4443-97B5-0A03FAA14C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8BD805-EA8C-4443-97B5-0A03FAA14C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8BD805-EA8C-4443-97B5-0A03FAA14C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98A214B-4A45-4F71-9CE6-AAF759CF0CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98A214B-4A45-4F71-9CE6-AAF759CF0CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98A214B-4A45-4F71-9CE6-AAF759CF0CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98A214B-4A45-4F71-9CE6-AAF759CF0CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
