@@ -17,7 +17,7 @@ namespace _01.MostAppropriateDataTypes
             short sh = -10000;
 
             Console.WriteLine("ushort: {0}", ush);
-            Console.WriteLine("sbyte: {0}", sh);
+            Console.WriteLine("sbyte: {0}", sb);
             Console.WriteLine("int: {0}", i);
             Console.WriteLine("byte: {0}", b);
             Console.WriteLine("short: {0}", sh);
