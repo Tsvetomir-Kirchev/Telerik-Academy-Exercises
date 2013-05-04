@@ -1,0 +1,1 @@
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\10.DeclaringVariables\bin\Debug\10.DeclaringVariables.exe.config
