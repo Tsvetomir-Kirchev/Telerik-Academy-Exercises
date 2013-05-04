@@ -1,0 +1,6 @@
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\09.TriangleWithCopySymbol\bin\Debug\09.TriangleWithCopySymbol.exe.config
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\09.TriangleWithCopySymbol\bin\Debug\09.TriangleWithCopySymbol.exe
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\09.TriangleWithCopySymbol\bin\Debug\09.TriangleWithCopySymbol.pdb
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\09.TriangleWithCopySymbol\obj\Debug\09.TriangleWithCopySymbol.exe
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\09.TriangleWithCopySymbol\obj\Debug\09.TriangleWithCopySymbol.pdb
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\09.TriangleWithCopySymbol\obj\Debug\09.TriangleWithCopySymbol.csprojResolveAssemblyReference.cache
