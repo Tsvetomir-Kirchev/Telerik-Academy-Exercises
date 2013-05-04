@@ -1,0 +1,5 @@
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\14.BankAccountHolder\bin\Debug\14.BankAccountHolder.exe.config
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\14.BankAccountHolder\bin\Debug\14.BankAccountHolder.exe
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\14.BankAccountHolder\bin\Debug\14.BankAccountHolder.pdb
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\14.BankAccountHolder\obj\Debug\14.BankAccountHolder.exe
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\14.BankAccountHolder\obj\Debug\14.BankAccountHolder.pdb
