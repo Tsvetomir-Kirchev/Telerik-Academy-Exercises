@@ -1,0 +1,6 @@
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.exe.config
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.exe
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.pdb
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.exe
+D:\Telerik\Exercises\C# Part 1\02.PrimitiveDataTypesAndVariables\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.pdb
