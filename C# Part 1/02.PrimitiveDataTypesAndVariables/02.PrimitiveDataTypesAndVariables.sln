@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AssignCharWithUnicode", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MyGender", "06.MyGender\06.MyGender.csproj", "{ECDC6301-C9E4-4794-B39B-434E110D7E08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Casting", "07.Casting\07.Casting.csproj", "{8EBF7078-5BBE-4820-B8EB-4E45E0C2A163}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{ECDC6301-C9E4-4794-B39B-434E110D7E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECDC6301-C9E4-4794-B39B-434E110D7E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECDC6301-C9E4-4794-B39B-434E110D7E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBF7078-5BBE-4820-B8EB-4E45E0C2A163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBF7078-5BBE-4820-B8EB-4E45E0C2A163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBF7078-5BBE-4820-B8EB-4E45E0C2A163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBF7078-5BBE-4820-B8EB-4E45E0C2A163}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
