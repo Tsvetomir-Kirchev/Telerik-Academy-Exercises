@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DoubleOrFloat", "02.Doub
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CompareFloatingNumbers", "03.CompareFloatingNumbers\03.CompareFloatingNumbers.csproj", "{A81DFD24-D9F4-49B0-8DED-CA8D83700F8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.AssignHexadecimalToInteger", "04.AssignHexadecimalToInteger\04.AssignHexadecimalToInteger.csproj", "{1978DC65-3367-4402-A5E6-98640E49036D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{A81DFD24-D9F4-49B0-8DED-CA8D83700F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A81DFD24-D9F4-49B0-8DED-CA8D83700F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A81DFD24-D9F4-49B0-8DED-CA8D83700F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1978DC65-3367-4402-A5E6-98640E49036D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1978DC65-3367-4402-A5E6-98640E49036D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1978DC65-3367-4402-A5E6-98640E49036D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1978DC65-3367-4402-A5E6-98640E49036D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
