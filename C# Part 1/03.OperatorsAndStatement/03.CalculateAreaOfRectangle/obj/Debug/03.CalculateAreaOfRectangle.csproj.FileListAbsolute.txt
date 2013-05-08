@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\03.CalculateAreaOfRectangle\bin\Debug\03.CalculateAreaOfRectangle.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\03.CalculateAreaOfRectangle\bin\Debug\03.CalculateAreaOfRectangle.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\03.CalculateAreaOfRectangle\bin\Debug\03.CalculateAreaOfRectangle.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\03.CalculateAreaOfRectangle\obj\Debug\03.CalculateAreaOfRectangle.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\03.CalculateAreaOfRectangle\obj\Debug\03.CalculateAreaOfRectangle.pdb
