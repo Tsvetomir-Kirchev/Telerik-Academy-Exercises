@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\09.IsBit1\bin\Debug\09.IsBit1.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\09.IsBit1\bin\Debug\09.IsBit1.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\09.IsBit1\bin\Debug\09.IsBit1.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\09.IsBit1\obj\Debug\09.IsBit1.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\09.IsBit1\obj\Debug\09.IsBit1.pdb
