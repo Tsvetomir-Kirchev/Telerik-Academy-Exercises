@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\07.CheckNumberForPrime\bin\Debug\07.CheckNumberForPrime.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\07.CheckNumberForPrime\bin\Debug\07.CheckNumberForPrime.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\07.CheckNumberForPrime\bin\Debug\07.CheckNumberForPrime.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\07.CheckNumberForPrime\obj\Debug\07.CheckNumberForPrime.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\07.CheckNumberForPrime\obj\Debug\07.CheckNumberForPrime.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\07.CheckNumberForPrime\obj\Debug\07.CheckNumberForPrime.pdb
