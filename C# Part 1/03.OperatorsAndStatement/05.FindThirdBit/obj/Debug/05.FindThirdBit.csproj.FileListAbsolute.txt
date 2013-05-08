@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\05.FindThirdBit\bin\Debug\05.FindThirdBit.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\05.FindThirdBit\bin\Debug\05.FindThirdBit.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\05.FindThirdBit\bin\Debug\05.FindThirdBit.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\05.FindThirdBit\obj\Debug\05.FindThirdBit.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\05.FindThirdBit\obj\Debug\05.FindThirdBit.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\05.FindThirdBit\obj\Debug\05.FindThirdBit.pdb
