@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\08.AreaOfTrapezoid\bin\Debug\08.AreaOfTrapezoid.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\08.AreaOfTrapezoid\bin\Debug\08.AreaOfTrapezoid.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\08.AreaOfTrapezoid\bin\Debug\08.AreaOfTrapezoid.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\08.AreaOfTrapezoid\obj\Debug\08.AreaOfTrapezoid.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\08.AreaOfTrapezoid\obj\Debug\08.AreaOfTrapezoid.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\08.AreaOfTrapezoid\obj\Debug\08.AreaOfTrapezoid.pdb
