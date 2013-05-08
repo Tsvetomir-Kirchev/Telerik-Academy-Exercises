@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\04.CheckThirdNumber\bin\Debug\04.CheckThirdNumber.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\04.CheckThirdNumber\bin\Debug\04.CheckThirdNumber.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\04.CheckThirdNumber\bin\Debug\04.CheckThirdNumber.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\04.CheckThirdNumber\obj\Debug\04.CheckThirdNumber.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\04.CheckThirdNumber\obj\Debug\04.CheckThirdNumber.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\04.CheckThirdNumber\obj\Debug\04.CheckThirdNumber.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CanDevideTo5And7", "02.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CalculateAreaOfRectangle", "03.CalculateAreaOfRectangle\03.CalculateAreaOfRectangle.csproj", "{DD9CA510-1E81-4D67-B761-09D1F6ECC3A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CheckThirdNumber", "04.CheckThirdNumber\04.CheckThirdNumber.csproj", "{33AAE960-DD01-4019-8582-A284DEA56898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{DD9CA510-1E81-4D67-B761-09D1F6ECC3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD9CA510-1E81-4D67-B761-09D1F6ECC3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD9CA510-1E81-4D67-B761-09D1F6ECC3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AAE960-DD01-4019-8582-A284DEA56898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AAE960-DD01-4019-8582-A284DEA56898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AAE960-DD01-4019-8582-A284DEA56898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AAE960-DD01-4019-8582-A284DEA56898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
