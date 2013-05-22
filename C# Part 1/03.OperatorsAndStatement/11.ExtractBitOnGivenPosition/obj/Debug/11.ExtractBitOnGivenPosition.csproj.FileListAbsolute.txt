@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\11.ExtractBitOnGivenPosition\bin\Debug\11.ExtractBitOnGivenPosition.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\11.ExtractBitOnGivenPosition\bin\Debug\11.ExtractBitOnGivenPosition.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\11.ExtractBitOnGivenPosition\bin\Debug\11.ExtractBitOnGivenPosition.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\11.ExtractBitOnGivenPosition\obj\Debug\11.ExtractBitOnGivenPosition.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\11.ExtractBitOnGivenPosition\obj\Debug\11.ExtractBitOnGivenPosition.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\11.ExtractBitOnGivenPosition\obj\Debug\11.ExtractBitOnGivenPosition.pdb
