@@ -4,3 +4,6 @@ F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\06.Chec
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\06.CheckPointInCircle\bin\Debug\06.CheckPointInCircle.pdb
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\06.CheckPointInCircle\obj\Debug\06.CheckPointInCircle.exe
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\06.CheckPointInCircle\obj\Debug\06.CheckPointInCircle.pdb
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\06.CheckPointInCircle\bin\Debug\06.CheckPointInCircle.exe.config
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\06.CheckPointInCircle\obj\Debug\06.CheckPointInCircle.exe
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\06.CheckPointInCircle\obj\Debug\06.CheckPointInCircle.pdb

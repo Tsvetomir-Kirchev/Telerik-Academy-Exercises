@@ -28,7 +28,7 @@ namespace _06.CheckPointInCircle
 
         public static bool IsPointInCircle(int x, int y)
         {
-            if ((x <= 5) && (y <= 5))
+            if ((x > -5 && x < 5) && ((y > -5) && (y < 5)))
             {
                 return true;
             }
