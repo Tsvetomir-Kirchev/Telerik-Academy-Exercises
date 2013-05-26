@@ -1,0 +1,5 @@
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\14.ExhangePBits\bin\Debug\14.ExhangePBits.exe.config
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\14.ExhangePBits\bin\Debug\14.ExhangePBits.exe
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\14.ExhangePBits\bin\Debug\14.ExhangePBits.pdb
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\14.ExhangePBits\obj\Debug\14.ExhangePBits.exe
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\14.ExhangePBits\obj\Debug\14.ExhangePBits.pdb
