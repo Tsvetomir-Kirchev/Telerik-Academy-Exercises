@@ -1,0 +1,1 @@
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\09.PointInCircleAndOutOfRectangle\bin\Debug\09.PointInCircleAndOutOfRectangle.exe.config
