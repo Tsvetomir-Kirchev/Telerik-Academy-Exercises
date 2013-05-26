@@ -1,0 +1,6 @@
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe.config
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\13.ExchangeBits\bin\Debug\13.ExchangeBits.pdb
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\13.ExchangeBits\obj\Debug\13.ExchangeBits.csprojResolveAssemblyReference.cache
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\13.ExchangeBits\obj\Debug\13.ExchangeBits.exe
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\13.ExchangeBits\obj\Debug\13.ExchangeBits.pdb
