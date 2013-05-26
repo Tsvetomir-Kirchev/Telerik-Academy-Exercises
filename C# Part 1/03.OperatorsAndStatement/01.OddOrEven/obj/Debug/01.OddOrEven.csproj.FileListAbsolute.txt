@@ -4,3 +4,6 @@ F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\01.OddO
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\01.OddOrEven\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\01.OddOrEven\obj\Debug\01.OddOrEven.exe
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\01.OddOrEven\obj\Debug\01.OddOrEven.pdb
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\01.OddOrEven\bin\Debug\01.OddOrEven.exe.config
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\01.OddOrEven\obj\Debug\01.OddOrEven.pdb

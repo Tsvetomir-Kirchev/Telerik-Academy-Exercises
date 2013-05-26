@@ -17,16 +17,26 @@ namespace _12.ModifyGivenBit
             Console.Write("p = ");
             int position = Int32.Parse(Console.ReadLine());
 
+            Console.WriteLine(Convert.ToString(number, 2).PadLeft(32, '0'));
+
             int modifiedNumber = ModifyBit(number, v, position);
-            Console.WriteLine("Number {0} after modified bit {1} with value {2} is {3}",
-                number, position, v, modifiedNumber);
+            Console.WriteLine(Convert.ToString(modifiedNumber, 2).PadLeft(32, '0'));
         }
 
         private static int ModifyBit(int number, int v, int position)
         {
-            int modifiedNumber = 0;
+            int modifiedNumber = number;
 
-            // TODO: Implement the logic
+            if (v == 0)
+            {
+                modifiedNumber = (~(1 << position) & number);
+            }
+            else
+            {
+                int mask = v << position;
+                modifiedNumber = modifiedNumber & ~(mask);
+                modifiedNumber = (modifiedNumber | mask);
+            }
 
             return modifiedNumber;
         }

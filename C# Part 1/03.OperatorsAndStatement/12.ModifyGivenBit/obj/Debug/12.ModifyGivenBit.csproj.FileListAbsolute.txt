@@ -4,3 +4,9 @@ F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\12.Modi
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\obj\Debug\12.ModifyGivenBit.csprojResolveAssemblyReference.cache
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\obj\Debug\12.ModifyGivenBit.exe
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\obj\Debug\12.ModifyGivenBit.pdb
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\bin\Debug\12.ModifyGivenBit.exe.config
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\obj\Debug\12.ModifyGivenBit.exe
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\obj\Debug\12.ModifyGivenBit.pdb
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\bin\Debug\12.ModifyGivenBit.exe
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\bin\Debug\12.ModifyGivenBit.pdb
+D:\Telerik\Exercises\C# Part 1\03.OperatorsAndStatement\12.ModifyGivenBit\obj\Debug\12.ModifyGivenBit.csprojResolveAssemblyReference.cache
