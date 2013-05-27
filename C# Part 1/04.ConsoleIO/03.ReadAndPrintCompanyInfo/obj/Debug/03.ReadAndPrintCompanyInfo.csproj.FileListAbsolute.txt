@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\03.ReadAndPrintCompanyInfo\bin\Debug\03.ReadAndPrintCompanyInfo.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\03.ReadAndPrintCompanyInfo\bin\Debug\03.ReadAndPrintCompanyInfo.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\03.ReadAndPrintCompanyInfo\bin\Debug\03.ReadAndPrintCompanyInfo.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\03.ReadAndPrintCompanyInfo\obj\Debug\03.ReadAndPrintCompanyInfo.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\03.ReadAndPrintCompanyInfo\obj\Debug\03.ReadAndPrintCompanyInfo.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\03.ReadAndPrintCompanyInfo\obj\Debug\03.ReadAndPrintCompanyInfo.pdb
