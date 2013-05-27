@@ -8,8 +8,8 @@ namespace _03.ReadAndPrintCompanyInfo
 {
     class ReadAndPrintCompanyInfo
     {
-        Company company;
-        Manager manager;
+        private Company company;
+        private Manager manager;
 
         ReadAndPrintCompanyInfo()
         {
