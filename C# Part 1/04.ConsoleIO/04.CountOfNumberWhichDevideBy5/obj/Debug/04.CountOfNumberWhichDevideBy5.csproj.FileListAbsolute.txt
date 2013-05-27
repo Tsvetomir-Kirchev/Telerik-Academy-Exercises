@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\04.CountOfNumberWhichDevideBy5\bin\Debug\04.CountOfNumberWhichDevideBy5.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\04.CountOfNumberWhichDevideBy5\bin\Debug\04.CountOfNumberWhichDevideBy5.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\04.CountOfNumberWhichDevideBy5\bin\Debug\04.CountOfNumberWhichDevideBy5.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\04.CountOfNumberWhichDevideBy5\obj\Debug\04.CountOfNumberWhichDevideBy5.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\04.CountOfNumberWhichDevideBy5\obj\Debug\04.CountOfNumberWhichDevideBy5.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\04.CountOfNumberWhichDevideBy5\obj\Debug\04.CountOfNumberWhichDevideBy5.pdb
