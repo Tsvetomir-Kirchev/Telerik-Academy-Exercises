@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\01.ReadAndPrintIntegers\bin\Debug\01.ReadAndPrintIntegers.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\01.ReadAndPrintIntegers\bin\Debug\01.ReadAndPrintIntegers.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\01.ReadAndPrintIntegers\bin\Debug\01.ReadAndPrintIntegers.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\01.ReadAndPrintIntegers\obj\Debug\01.ReadAndPrintIntegers.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\01.ReadAndPrintIntegers\obj\Debug\01.ReadAndPrintIntegers.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\01.ReadAndPrintIntegers\obj\Debug\01.ReadAndPrintIntegers.pdb
