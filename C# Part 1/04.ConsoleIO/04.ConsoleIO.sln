@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReadAndPrintIntegers", "01.ReadAndPrintIntegers\01.ReadAndPrintIntegers.csproj", "{B7CCDD97-DC10-407A-B65A-11E2248DD7C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PerimeterAndAreaOfCircle", "02.PerimeterAndAreaOfCircle\02.PerimeterAndAreaOfCircle.csproj", "{79DA58DB-DAE0-419E-8BA3-8A020913DDEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{B7CCDD97-DC10-407A-B65A-11E2248DD7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7CCDD97-DC10-407A-B65A-11E2248DD7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7CCDD97-DC10-407A-B65A-11E2248DD7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DA58DB-DAE0-419E-8BA3-8A020913DDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DA58DB-DAE0-419E-8BA3-8A020913DDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DA58DB-DAE0-419E-8BA3-8A020913DDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DA58DB-DAE0-419E-8BA3-8A020913DDEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
