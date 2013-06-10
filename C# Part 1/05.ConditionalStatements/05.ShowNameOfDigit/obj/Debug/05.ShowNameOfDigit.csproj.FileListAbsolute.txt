@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\05.ShowNameOfDigit\bin\Debug\05.ShowNameOfDigit.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\05.ShowNameOfDigit\bin\Debug\05.ShowNameOfDigit.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\05.ShowNameOfDigit\bin\Debug\05.ShowNameOfDigit.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\05.ShowNameOfDigit\obj\Debug\05.ShowNameOfDigit.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\05.ShowNameOfDigit\obj\Debug\05.ShowNameOfDigit.pdb
