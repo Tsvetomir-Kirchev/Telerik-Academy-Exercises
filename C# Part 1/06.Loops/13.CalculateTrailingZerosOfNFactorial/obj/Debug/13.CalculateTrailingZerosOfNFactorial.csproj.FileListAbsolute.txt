@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\13.CalculateTrailingZerosOfNFactorial\bin\Debug\13.CalculateTrailingZerosOfNFactorial.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\13.CalculateTrailingZerosOfNFactorial\bin\Debug\13.CalculateTrailingZerosOfNFactorial.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\13.CalculateTrailingZerosOfNFactorial\bin\Debug\13.CalculateTrailingZerosOfNFactorial.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\13.CalculateTrailingZerosOfNFactorial\obj\Debug\13.CalculateTrailingZerosOfNFactorial.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\13.CalculateTrailingZerosOfNFactorial\obj\Debug\13.CalculateTrailingZerosOfNFactorial.pdb
