@@ -1,0 +1,1 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\06.CalculateSumOfNFactorialAndX\bin\Debug\06.CalculateSumOfNFactorialAndX.exe.config
