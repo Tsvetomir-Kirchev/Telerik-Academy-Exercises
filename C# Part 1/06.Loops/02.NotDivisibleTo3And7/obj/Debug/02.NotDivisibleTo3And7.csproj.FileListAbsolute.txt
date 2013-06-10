@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\02.NotDivisibleTo3And7\bin\Debug\02.NotDivisibleTo3And7.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\02.NotDivisibleTo3And7\bin\Debug\02.NotDivisibleTo3And7.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\02.NotDivisibleTo3And7\bin\Debug\02.NotDivisibleTo3And7.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\02.NotDivisibleTo3And7\obj\Debug\02.NotDivisibleTo3And7.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\02.NotDivisibleTo3And7\obj\Debug\02.NotDivisibleTo3And7.pdb

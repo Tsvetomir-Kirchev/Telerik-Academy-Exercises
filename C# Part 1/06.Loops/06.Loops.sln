@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PrintNumbersFrom1ToN", "01.PrintNumbersFrom1ToN\01.PrintNumbersFrom1ToN.csproj", "{D4BE423D-A226-4579-9591-3B38B04EB30F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NotDivisibleTo3And7", "02.NotDivisibleTo3And7\02.NotDivisibleTo3And7.csproj", "{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{D4BE423D-A226-4579-9591-3B38B04EB30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4BE423D-A226-4579-9591-3B38B04EB30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4BE423D-A226-4579-9591-3B38B04EB30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
