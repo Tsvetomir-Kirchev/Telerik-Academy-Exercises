@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\03.FindBiggestNumber\bin\Debug\03.FindBiggestNumber.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\03.FindBiggestNumber\bin\Debug\03.FindBiggestNumber.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\03.FindBiggestNumber\bin\Debug\03.FindBiggestNumber.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\03.FindBiggestNumber\obj\Debug\03.FindBiggestNumber.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\03.FindBiggestNumber\obj\Debug\03.FindBiggestNumber.pdb
