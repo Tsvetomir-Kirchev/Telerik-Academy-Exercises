@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\02.ShowSignOfProduct\bin\Debug\02.ShowSignOfProduct.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\02.ShowSignOfProduct\bin\Debug\02.ShowSignOfProduct.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\02.ShowSignOfProduct\bin\Debug\02.ShowSignOfProduct.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\02.ShowSignOfProduct\obj\Debug\02.ShowSignOfProduct.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\02.ShowSignOfProduct\obj\Debug\02.ShowSignOfProduct.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\02.ShowSignOfProduct\obj\Debug\02.ShowSignOfProduct.pdb
