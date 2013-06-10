@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SequenceOfFibonacci", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CalculateGreatestCommonDevisor", "08.CalculateGreatestCommonDevisor\08.CalculateGreatestCommonDevisor.csproj", "{925D1678-CF67-40D8-B509-B1D25008FB93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CalculateCatalanNumbers", "09.CalculateCatalanNumbers\09.CalculateCatalanNumbers.csproj", "{72E86298-86E8-42D0-9286-43C826CA3B6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{925D1678-CF67-40D8-B509-B1D25008FB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{925D1678-CF67-40D8-B509-B1D25008FB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{925D1678-CF67-40D8-B509-B1D25008FB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E86298-86E8-42D0-9286-43C826CA3B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E86298-86E8-42D0-9286-43C826CA3B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E86298-86E8-42D0-9286-43C826CA3B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E86298-86E8-42D0-9286-43C826CA3B6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
