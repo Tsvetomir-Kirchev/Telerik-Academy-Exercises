@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ReadAndPrintNNumbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Fibonacci", "09.Fibonacci\09.Fibonacci.csproj", "{983B3DDF-2C08-4C97-A5DC-58074D905093}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSum", "CalculateSum\CalculateSum.csproj", "{A1545762-A24F-4741-8430-53007487D1B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{983B3DDF-2C08-4C97-A5DC-58074D905093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{983B3DDF-2C08-4C97-A5DC-58074D905093}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{983B3DDF-2C08-4C97-A5DC-58074D905093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1545762-A24F-4741-8430-53007487D1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1545762-A24F-4741-8430-53007487D1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1545762-A24F-4741-8430-53007487D1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1545762-A24F-4741-8430-53007487D1B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

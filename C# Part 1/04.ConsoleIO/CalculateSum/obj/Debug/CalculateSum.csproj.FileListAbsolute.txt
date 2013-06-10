@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\CalculateSum\bin\Debug\CalculateSum.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\CalculateSum\bin\Debug\CalculateSum.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\CalculateSum\bin\Debug\CalculateSum.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\CalculateSum\obj\Debug\CalculateSum.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\CalculateSum\obj\Debug\CalculateSum.pdb
