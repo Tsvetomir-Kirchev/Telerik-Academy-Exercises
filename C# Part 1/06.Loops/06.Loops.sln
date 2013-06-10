@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.PrintMatrix", "12.PrintM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.CalculateTrailingZerosOfNFactorial", "13.CalculateTrailingZerosOfNFactorial\13.CalculateTrailingZerosOfNFactorial.csproj", "{3AFEA24B-415A-4973-B03D-5C5738DF12C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.SpiralMatrix", "14.SpiralMatrix\14.SpiralMatrix.csproj", "{B5A7DA4F-F913-4C91-A4F3-CA6BE9B1181E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{3AFEA24B-415A-4973-B03D-5C5738DF12C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AFEA24B-415A-4973-B03D-5C5738DF12C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AFEA24B-415A-4973-B03D-5C5738DF12C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A7DA4F-F913-4C91-A4F3-CA6BE9B1181E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A7DA4F-F913-4C91-A4F3-CA6BE9B1181E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A7DA4F-F913-4C91-A4F3-CA6BE9B1181E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A7DA4F-F913-4C91-A4F3-CA6BE9B1181E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

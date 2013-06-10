@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\14.SpiralMatrix\bin\Debug\14.SpiralMatrix.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\14.SpiralMatrix\bin\Debug\14.SpiralMatrix.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\14.SpiralMatrix\bin\Debug\14.SpiralMatrix.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\14.SpiralMatrix\obj\Debug\14.SpiralMatrix.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\14.SpiralMatrix\obj\Debug\14.SpiralMatrix.pdb
