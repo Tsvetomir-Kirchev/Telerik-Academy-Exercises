@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.pdb
