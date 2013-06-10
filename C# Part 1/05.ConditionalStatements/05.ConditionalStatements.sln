@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CheckSumOfSubset", "09.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.BonusScores", "10.BonusScores\10.BonusScores.csproj", "{F2B9ABDB-2CD8-417C-858D-43036DFF081A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ConvertNumbersToCorrespondingText", "11.ConvertNumbersToCorrespondingText\11.ConvertNumbersToCorrespondingText.csproj", "{4C714DD3-ED7C-4019-A681-660CEC688421}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{F2B9ABDB-2CD8-417C-858D-43036DFF081A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2B9ABDB-2CD8-417C-858D-43036DFF081A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2B9ABDB-2CD8-417C-858D-43036DFF081A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C714DD3-ED7C-4019-A681-660CEC688421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C714DD3-ED7C-4019-A681-660CEC688421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C714DD3-ED7C-4019-A681-660CEC688421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C714DD3-ED7C-4019-A681-660CEC688421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

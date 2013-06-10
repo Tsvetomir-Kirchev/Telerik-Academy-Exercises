@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\11.ConvertNumbersToCorrespondingText\bin\Debug\11.ConvertNumbersToCorrespondingText.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\11.ConvertNumbersToCorrespondingText\bin\Debug\11.ConvertNumbersToCorrespondingText.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\11.ConvertNumbersToCorrespondingText\bin\Debug\11.ConvertNumbersToCorrespondingText.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\11.ConvertNumbersToCorrespondingText\obj\Debug\11.ConvertNumbersToCorrespondingText.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\11.ConvertNumbersToCorrespondingText\obj\Debug\11.ConvertNumbersToCorrespondingText.pdb
