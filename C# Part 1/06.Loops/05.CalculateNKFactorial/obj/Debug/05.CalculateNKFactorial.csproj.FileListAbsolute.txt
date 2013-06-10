@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\05.CalculateNKFactorial\bin\Debug\05.CalculateNKFactorial.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\05.CalculateNKFactorial\bin\Debug\05.CalculateNKFactorial.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\05.CalculateNKFactorial\bin\Debug\05.CalculateNKFactorial.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\05.CalculateNKFactorial\obj\Debug\05.CalculateNKFactorial.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\05.CalculateNKFactorial\obj\Debug\05.CalculateNKFactorial.pdb
