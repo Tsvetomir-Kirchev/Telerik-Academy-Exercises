@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\04.CalculateNDevideKFactorial\bin\Debug\04.CalculateNDevideKFactorial.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\04.CalculateNDevideKFactorial\bin\Debug\04.CalculateNDevideKFactorial.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\04.CalculateNDevideKFactorial\bin\Debug\04.CalculateNDevideKFactorial.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\04.CalculateNDevideKFactorial\obj\Debug\04.CalculateNDevideKFactorial.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\04.CalculateNDevideKFactorial\obj\Debug\04.CalculateNDevideKFactorial.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\04.CalculateNDevideKFactorial\obj\Debug\04.CalculateNDevideKFactorial.pdb

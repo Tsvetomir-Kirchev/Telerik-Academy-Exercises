@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NotDivisibleTo3And7", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ReturnMinAndMaxNumber", "03.ReturnMinAndMaxNumber\03.ReturnMinAndMaxNumber.csproj", "{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CalculateNDevideKFactorial", "04.CalculateNDevideKFactorial\04.CalculateNDevideKFactorial.csproj", "{596A0875-A1C1-4A43-B58B-062F35285B00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596A0875-A1C1-4A43-B58B-062F35285B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596A0875-A1C1-4A43-B58B-062F35285B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596A0875-A1C1-4A43-B58B-062F35285B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596A0875-A1C1-4A43-B58B-062F35285B00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
