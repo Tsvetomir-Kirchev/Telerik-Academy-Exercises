@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CalculateNNumbers", "07.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ReadAndPrintNNumbers", "08.ReadAndPrintNNumbers\08.ReadAndPrintNNumbers.csproj", "{EB3E8656-75D3-434E-A810-9363BCDD09E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Fibonacci", "09.Fibonacci\09.Fibonacci.csproj", "{983B3DDF-2C08-4C97-A5DC-58074D905093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{EB3E8656-75D3-434E-A810-9363BCDD09E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3E8656-75D3-434E-A810-9363BCDD09E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB3E8656-75D3-434E-A810-9363BCDD09E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983B3DDF-2C08-4C97-A5DC-58074D905093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983B3DDF-2C08-4C97-A5DC-58074D905093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983B3DDF-2C08-4C97-A5DC-58074D905093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983B3DDF-2C08-4C97-A5DC-58074D905093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

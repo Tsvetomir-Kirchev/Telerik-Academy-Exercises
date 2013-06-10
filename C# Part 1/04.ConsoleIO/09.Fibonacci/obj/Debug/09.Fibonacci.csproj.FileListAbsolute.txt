@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\09.Fibonacci\bin\Debug\09.Fibonacci.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\09.Fibonacci\bin\Debug\09.Fibonacci.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\09.Fibonacci\bin\Debug\09.Fibonacci.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\09.Fibonacci\obj\Debug\09.Fibonacci.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\09.Fibonacci\obj\Debug\09.Fibonacci.pdb
