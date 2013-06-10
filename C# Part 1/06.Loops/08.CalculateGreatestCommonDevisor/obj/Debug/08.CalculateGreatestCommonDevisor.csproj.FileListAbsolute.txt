@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\08.CalculateGreatestCommonDevisor\bin\Debug\08.CalculateGreatestCommonDevisor.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\08.CalculateGreatestCommonDevisor\bin\Debug\08.CalculateGreatestCommonDevisor.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\08.CalculateGreatestCommonDevisor\bin\Debug\08.CalculateGreatestCommonDevisor.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\08.CalculateGreatestCommonDevisor\obj\Debug\08.CalculateGreatestCommonDevisor.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\08.CalculateGreatestCommonDevisor\obj\Debug\08.CalculateGreatestCommonDevisor.pdb

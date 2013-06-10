@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CalculateSumOfNFactorial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SequenceOfFibonacci", "07.SequenceOfFibonacci\07.SequenceOfFibonacci.csproj", "{E9149CFA-E2AF-47C2-BE6F-57ED2DA05802}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CalculateGreatestCommonDevisor", "08.CalculateGreatestCommonDevisor\08.CalculateGreatestCommonDevisor.csproj", "{925D1678-CF67-40D8-B509-B1D25008FB93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{E9149CFA-E2AF-47C2-BE6F-57ED2DA05802}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9149CFA-E2AF-47C2-BE6F-57ED2DA05802}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9149CFA-E2AF-47C2-BE6F-57ED2DA05802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925D1678-CF67-40D8-B509-B1D25008FB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925D1678-CF67-40D8-B509-B1D25008FB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925D1678-CF67-40D8-B509-B1D25008FB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925D1678-CF67-40D8-B509-B1D25008FB93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
