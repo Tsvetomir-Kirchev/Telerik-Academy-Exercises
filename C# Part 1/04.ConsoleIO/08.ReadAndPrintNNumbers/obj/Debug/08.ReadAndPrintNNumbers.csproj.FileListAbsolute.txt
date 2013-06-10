@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\08.ReadAndPrintNNumbers\bin\Debug\08.ReadAndPrintNNumbers.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\08.ReadAndPrintNNumbers\bin\Debug\08.ReadAndPrintNNumbers.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\08.ReadAndPrintNNumbers\bin\Debug\08.ReadAndPrintNNumbers.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\08.ReadAndPrintNNumbers\obj\Debug\08.ReadAndPrintNNumbers.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\08.ReadAndPrintNNumbers\obj\Debug\08.ReadAndPrintNNumbers.pdb
