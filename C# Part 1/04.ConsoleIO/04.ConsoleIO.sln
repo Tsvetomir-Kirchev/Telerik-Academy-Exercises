@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CountOfNumberWhichDevide
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintGreaterNumber", "05.PrintGreaterNumber\05.PrintGreaterNumber.csproj", "{A507AEE1-D167-4FD4-91FF-11D640C15474}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SolveQuadraticEquation", "06.SolveQuadraticEquation\06.SolveQuadraticEquation.csproj", "{B628257A-923A-41ED-8D4D-384782A0B7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CalculateNNumbers", "07.CalculateNNumbers\07.CalculateNNumbers.csproj", "{28B53024-0F8F-411F-A9CF-63C6DC9D61BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{A507AEE1-D167-4FD4-91FF-11D640C15474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A507AEE1-D167-4FD4-91FF-11D640C15474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A507AEE1-D167-4FD4-91FF-11D640C15474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B628257A-923A-41ED-8D4D-384782A0B7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B628257A-923A-41ED-8D4D-384782A0B7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B628257A-923A-41ED-8D4D-384782A0B7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B628257A-923A-41ED-8D4D-384782A0B7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B53024-0F8F-411F-A9CF-63C6DC9D61BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B53024-0F8F-411F-A9CF-63C6DC9D61BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B53024-0F8F-411F-A9CF-63C6DC9D61BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B53024-0F8F-411F-A9CF-63C6DC9D61BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

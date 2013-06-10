@@ -1,1 +1,5 @@
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\06.SolveQuadraticEquation\bin\Debug\06.SolveQuadraticEquation.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\06.SolveQuadraticEquation\bin\Debug\06.SolveQuadraticEquation.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\06.SolveQuadraticEquation\bin\Debug\06.SolveQuadraticEquation.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\06.SolveQuadraticEquation\obj\Debug\06.SolveQuadraticEquation.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\06.SolveQuadraticEquation\obj\Debug\06.SolveQuadraticEquation.pdb

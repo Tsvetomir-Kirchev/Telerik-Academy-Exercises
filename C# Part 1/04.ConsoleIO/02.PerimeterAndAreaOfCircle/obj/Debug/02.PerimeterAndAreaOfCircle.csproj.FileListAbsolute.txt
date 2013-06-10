@@ -3,3 +3,4 @@ F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\02.PerimeterAndArea
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\02.PerimeterAndAreaOfCircle\bin\Debug\02.PerimeterAndAreaOfCircle.pdb
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\02.PerimeterAndAreaOfCircle\obj\Debug\02.PerimeterAndAreaOfCircle.exe
 F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\02.PerimeterAndAreaOfCircle\obj\Debug\02.PerimeterAndAreaOfCircle.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\02.PerimeterAndAreaOfCircle\obj\Debug\02.PerimeterAndAreaOfCircle.csprojResolveAssemblyReference.cache

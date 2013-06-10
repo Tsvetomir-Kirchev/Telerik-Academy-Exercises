@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\07.CalculateNNumbers\bin\Debug\07.CalculateNNumbers.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\07.CalculateNNumbers\bin\Debug\07.CalculateNNumbers.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\07.CalculateNNumbers\bin\Debug\07.CalculateNNumbers.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\07.CalculateNNumbers\obj\Debug\07.CalculateNNumbers.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\07.CalculateNNumbers\obj\Debug\07.CalculateNNumbers.pdb
