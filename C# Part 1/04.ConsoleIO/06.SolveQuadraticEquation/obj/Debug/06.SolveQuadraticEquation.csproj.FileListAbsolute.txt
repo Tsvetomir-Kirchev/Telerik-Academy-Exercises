@@ -1,0 +1,1 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\04.ConsoleIO\06.SolveQuadraticEquation\bin\Debug\06.SolveQuadraticEquation.exe.config
