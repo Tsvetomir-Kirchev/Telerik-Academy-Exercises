@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\08.InputChoice\bin\Debug\08.InputChoice.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\08.InputChoice\bin\Debug\08.InputChoice.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\08.InputChoice\bin\Debug\08.InputChoice.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\08.InputChoice\obj\Debug\08.InputChoice.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\08.InputChoice\obj\Debug\08.InputChoice.pdb
