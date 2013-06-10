@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PrintNumbersFrom1ToN", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NotDivisibleTo3And7", "02.NotDivisibleTo3And7\02.NotDivisibleTo3And7.csproj", "{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ReturnMinAndMaxNumber", "03.ReturnMinAndMaxNumber\03.ReturnMinAndMaxNumber.csproj", "{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A3EA5BE-68C1-4CCB-8D40-164A73A8E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D8AFCF-D6CE-4A32-AD6F-B919A87D15BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

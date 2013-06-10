@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\03.ReturnMinAndMaxNumber\bin\Debug\03.ReturnMinAndMaxNumber.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\03.ReturnMinAndMaxNumber\bin\Debug\03.ReturnMinAndMaxNumber.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\03.ReturnMinAndMaxNumber\bin\Debug\03.ReturnMinAndMaxNumber.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\03.ReturnMinAndMaxNumber\obj\Debug\03.ReturnMinAndMaxNumber.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\03.ReturnMinAndMaxNumber\obj\Debug\03.ReturnMinAndMaxNumber.pdb
