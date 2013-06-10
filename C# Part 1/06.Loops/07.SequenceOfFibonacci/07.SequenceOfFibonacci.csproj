@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{13846652-988C-452A-9262-B32F4A254A99}</ProjectGuid>
+    <ProjectGuid>{E9149CFA-E2AF-47C2-BE6F-57ED2DA05802}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_06.CalculateSumOfNFactorialAndX</RootNamespace>
-    <AssemblyName>06.CalculateSumOfNFactorialAndX</AssemblyName>
+    <RootNamespace>_07.SequenceOfFibonacci</RootNamespace>
+    <AssemblyName>07.SequenceOfFibonacci</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -34,7 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CalculateSumOfNFactorialAndX.cs" />
+    <Compile Include="SequenceOfFibonacci.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

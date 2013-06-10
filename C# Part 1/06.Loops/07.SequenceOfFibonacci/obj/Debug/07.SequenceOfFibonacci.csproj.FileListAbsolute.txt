@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\07.SequenceOfFibonacci\bin\Debug\07.SequenceOfFibonacci.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\07.SequenceOfFibonacci\bin\Debug\07.SequenceOfFibonacci.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\07.SequenceOfFibonacci\bin\Debug\07.SequenceOfFibonacci.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\07.SequenceOfFibonacci\obj\Debug\07.SequenceOfFibonacci.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\07.SequenceOfFibonacci\obj\Debug\07.SequenceOfFibonacci.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\07.SequenceOfFibonacci\obj\Debug\07.SequenceOfFibonacci.pdb
