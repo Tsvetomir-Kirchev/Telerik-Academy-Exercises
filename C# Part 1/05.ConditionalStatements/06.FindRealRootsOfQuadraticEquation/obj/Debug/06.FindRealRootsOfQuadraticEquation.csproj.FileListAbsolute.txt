@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\06.FindRealRootsOfQuadraticEquation\bin\Debug\06.FindRealRootsOfQuadraticEquation.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\06.FindRealRootsOfQuadraticEquation\bin\Debug\06.FindRealRootsOfQuadraticEquation.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\06.FindRealRootsOfQuadraticEquation\bin\Debug\06.FindRealRootsOfQuadraticEquation.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\06.FindRealRootsOfQuadraticEquation\obj\Debug\06.FindRealRootsOfQuadraticEquation.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\06.FindRealRootsOfQuadraticEquation\obj\Debug\06.FindRealRootsOfQuadraticEquation.pdb
