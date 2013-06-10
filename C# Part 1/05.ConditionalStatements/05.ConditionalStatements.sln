@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FindGreatestNumber", "07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.InputChoice", "08.InputChoice\08.InputChoice.csproj", "{A0D905B9-3DFF-4356-A89D-DB9755DBA50D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CheckSumOfSubset", "09.CheckSumOfSubset\09.CheckSumOfSubset.csproj", "{9D27E6E8-FE81-4686-9362-DE3DDB0F8A48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{A0D905B9-3DFF-4356-A89D-DB9755DBA50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0D905B9-3DFF-4356-A89D-DB9755DBA50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0D905B9-3DFF-4356-A89D-DB9755DBA50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D27E6E8-FE81-4686-9362-DE3DDB0F8A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D27E6E8-FE81-4686-9362-DE3DDB0F8A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D27E6E8-FE81-4686-9362-DE3DDB0F8A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D27E6E8-FE81-4686-9362-DE3DDB0F8A48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

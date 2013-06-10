@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\09.CheckSumOfSubset\bin\Debug\09.CheckSumOfSubset.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\09.CheckSumOfSubset\bin\Debug\09.CheckSumOfSubset.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\09.CheckSumOfSubset\bin\Debug\09.CheckSumOfSubset.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\09.CheckSumOfSubset\obj\Debug\09.CheckSumOfSubset.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\09.CheckSumOfSubset\obj\Debug\09.CheckSumOfSubset.pdb
