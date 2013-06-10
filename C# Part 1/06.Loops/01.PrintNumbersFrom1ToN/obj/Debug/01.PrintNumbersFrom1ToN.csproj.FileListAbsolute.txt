@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\01.PrintNumbersFrom1ToN\bin\Debug\01.PrintNumbersFrom1ToN.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\01.PrintNumbersFrom1ToN\bin\Debug\01.PrintNumbersFrom1ToN.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\01.PrintNumbersFrom1ToN\bin\Debug\01.PrintNumbersFrom1ToN.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\01.PrintNumbersFrom1ToN\obj\Debug\01.PrintNumbersFrom1ToN.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\06.Loops\01.PrintNumbersFrom1ToN\obj\Debug\01.PrintNumbersFrom1ToN.pdb
