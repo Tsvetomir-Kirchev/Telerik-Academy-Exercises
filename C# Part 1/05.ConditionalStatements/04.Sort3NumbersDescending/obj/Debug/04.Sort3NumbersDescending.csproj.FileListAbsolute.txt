@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\04.Sort3NumbersDescending\bin\Debug\04.Sort3NumbersDescending.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\04.Sort3NumbersDescending\bin\Debug\04.Sort3NumbersDescending.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\04.Sort3NumbersDescending\bin\Debug\04.Sort3NumbersDescending.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\04.Sort3NumbersDescending\obj\Debug\04.Sort3NumbersDescending.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\04.Sort3NumbersDescending\obj\Debug\04.Sort3NumbersDescending.pdb
