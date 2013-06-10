@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\07.FindGreatestNumber\bin\Debug\07.FindGreatestNumber.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\07.FindGreatestNumber\bin\Debug\07.FindGreatestNumber.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\07.FindGreatestNumber\bin\Debug\07.FindGreatestNumber.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\07.FindGreatestNumber\obj\Debug\07.FindGreatestNumber.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\07.FindGreatestNumber\obj\Debug\07.FindGreatestNumber.pdb
