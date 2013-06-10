@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\01.ExchangeValueOfTwoIntegers\bin\Debug\01.ExchangeValueOfTwoIntegers.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\01.ExchangeValueOfTwoIntegers\bin\Debug\01.ExchangeValueOfTwoIntegers.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\01.ExchangeValueOfTwoIntegers\bin\Debug\01.ExchangeValueOfTwoIntegers.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\01.ExchangeValueOfTwoIntegers\obj\Debug\01.ExchangeValueOfTwoIntegers.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 1\05.ConditionalStatements\01.ExchangeValueOfTwoIntegers\obj\Debug\01.ExchangeValueOfTwoIntegers.pdb
