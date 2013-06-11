@@ -14,7 +14,9 @@ namespace _02.Compare2Arrays
             int[] firstArray = new int[n];
             int[] seconArray = new int[n];
 
+            Console.WriteLine("First array:");
             ReadArrayFromConsole(firstArray);
+            Console.WriteLine("Second array:");
             ReadArrayFromConsole(seconArray);
             bool areEqual = CompareArrays(firstArray, seconArray);
 
@@ -42,7 +44,6 @@ namespace _02.Compare2Arrays
                 Console.Write("arr[{0}] = ", i);
                 arr[i] = Int32.Parse(Console.ReadLine());
             }
-            Console.WriteLine();
         }
     }
 }
