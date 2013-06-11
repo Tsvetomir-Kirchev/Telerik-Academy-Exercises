@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\01.AllocateAndPopulateArray\bin\Debug\01.AllocateAndPopulateArray.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\01.AllocateAndPopulateArray\bin\Debug\01.AllocateAndPopulateArray.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\01.AllocateAndPopulateArray\bin\Debug\01.AllocateAndPopulateArray.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\01.AllocateAndPopulateArray\obj\Debug\01.AllocateAndPopulateArray.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\01.AllocateAndPopulateArray\obj\Debug\01.AllocateAndPopulateArray.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\01.AllocateAndPopulateArray\obj\Debug\01.AllocateAndPopulateArray.pdb
