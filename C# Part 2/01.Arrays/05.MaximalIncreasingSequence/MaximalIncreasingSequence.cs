@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _04.MaximalSequenceOfEqualElements
+namespace _05.MaximalIncreasingSequence
 {
-    class MaximalSequenceOfEqualElements
+    class MaximalIncreasingSequence
     {
         static void Main(string[] args)
         {
@@ -26,7 +26,7 @@ namespace _04.MaximalSequenceOfEqualElements
             int counter = 0;
             for (int i = 0; i < arr.Length - 1; i++)
             {
-                if (arr[i] == arr[i + 1])
+                if (arr[i] == (arr[i + 1] - 1))
                 {
                     counter++;
                     if (counter > maximalSequence)
@@ -35,8 +35,7 @@ namespace _04.MaximalSequenceOfEqualElements
                         lastIndex = i + 1;
                     }
                 }
-                if ((
-                    counter == maximalSequence) && (arr[i] != arr[i + 1]))
+                if ((counter == maximalSequence) && (arr[i] != (arr[i + 1] - 1)))
                 {
                     lastIndex = i;
                     counter = 0;
