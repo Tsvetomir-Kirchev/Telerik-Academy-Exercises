@@ -10,7 +10,7 @@ namespace _07.SelectionSort
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1, 4, 2, 6, 0, 50, 12, -6, 90, 190 };
+            int[] arr = { 1, 4, 2, 6, 0, 50, 12, -6, 90, -3, 190 };
 
             Sort(arr);
             Print(arr);
@@ -27,19 +27,20 @@ namespace _07.SelectionSort
         public static void Sort(int[] arr)
         {
             int min = 0;
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length - 1; i++)
             {
                 min = i;
-                for (int j = i; j < arr.Length; j++)
+                for (int j = i + 1; j < arr.Length; j++)
                 {
                     if (arr[j] < arr[min])
                     {
                         min = j;
                     }
-                    int temp = arr[i];
-                    arr[i] = arr[min];
-                    arr[min] = temp;
                 }
+
+                int temp = arr[i];
+                arr[i] = arr[min];
+                arr[min] = temp;
             }
         }
     }
