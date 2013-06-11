@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\03.Compare2CharArraysLexicographivally\bin\Debug\03.Compare2CharArraysLexicographivally.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\03.Compare2CharArraysLexicographivally\bin\Debug\03.Compare2CharArraysLexicographivally.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\03.Compare2CharArraysLexicographivally\bin\Debug\03.Compare2CharArraysLexicographivally.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\03.Compare2CharArraysLexicographivally\obj\Debug\03.Compare2CharArraysLexicographivally.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\03.Compare2CharArraysLexicographivally\obj\Debug\03.Compare2CharArraysLexicographivally.pdb
