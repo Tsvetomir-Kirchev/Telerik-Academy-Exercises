@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\06.MaximalSumOfArray\bin\Debug\06.MaximalSumOfArray.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\06.MaximalSumOfArray\bin\Debug\06.MaximalSumOfArray.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\06.MaximalSumOfArray\bin\Debug\06.MaximalSumOfArray.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\06.MaximalSumOfArray\obj\Debug\06.MaximalSumOfArray.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\06.MaximalSumOfArray\obj\Debug\06.MaximalSumOfArray.pdb
