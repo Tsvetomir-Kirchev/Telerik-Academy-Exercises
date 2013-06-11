@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML5 tables and forms exercise 3</title>
+		<style>
+			#buttons {
+				margin-left: 35%;
+			}
+			
+			.code {
+				width: 50px;
+			}
+			
+			.fullWidth {
+				width: 98%;
+			}
+			
+			.dataField {
+				width: 20px;
+				margin-left: 10px;
+			}
+			
+			.birthDate {
+				width: 40px;
+				margin-left: 10px;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="#">
+			<table border="1" cellspacing="0">
+				<tr>
+					<td><label for="firstName">First name:</label></td>
+					<td><input type="text" id="firstName" placeholder="First name" autofocus="true"
+						class="fullWidth" /></td>
+				</tr>
+				<tr>
+					<td><label for="lastName">Last name:<label></td>
+					<td><input type="text" id="lastName" placeholder="Last name" class="fullWidth" /></td>
+				</tr>
+				<tr>
+					<td><label for="address">Address</label></td>
+					<td><textarea id="address" placeholder="Enter your address" class="fullWidth"
+						></textarea></td>
+				</tr>
+				<tr>
+					<td><label for="city">City</label></td>
+					<td>
+						<input type="text" id="city" placeholder="city">
+						<label for="state">State</label>
+						<input type="text" id="state" placeholder="0" class="code"/>
+					</td>
+				</tr>
+				<tr>
+					<td><label for="zipCode">Zip/Postal code</label></td>
+					<td><input type="text" id="zipCode" class="code" /></td>
+				</tr>
+				<tr>
+					<td><label>Country</label></td>
+					<td>
+						<select name="country">
+							<option value="Bulgaria" selected="selected">Bulgaria</option>
+							<option value="USA">USA</option>
+							<option value="Afghanistan">Afghanistan</option>
+							<option value="Russia">Russia</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td><label>Phone (country code, area code, number)</label></td>
+					<td>
+						<span>(+</span><input type="text" class="code" placeholder="359" /><span>)</span>
+						<input type="text" class="code" placeholder="88" />
+						<input type="tel" />
+					</td>
+				</tr>
+				<tr>
+					<td><label for="email">E-mail</label></td>
+					<td><input type="email" id="email" placeholder="some@mail.com" /></td>
+				</tr>
+				<tr>
+					<td><label>Birth date</label></td>
+					<td>
+						<label>Month</label><input type="text" class="dataField" placeholder="00" />
+						<label>Day</label><input type="text" class="dataField" placeholder="00" />
+						<label>Year (4 digit)</label><input type="text" placeholder="1900" class="birthDate" />
+					</td>
+				</tr>
+				<tr>
+					<td><label>Gender</label></td>
+					<td>
+						<select name="gender">
+							<option value="Male" selected="selected">Male</option>
+							<option value="Female">Female</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td><label>Starting date</label></td>
+					<td>
+						<input type="radio" name="startingDate" /><span>Spring 2012</span>
+						<input type="radio" name="startingDate" /><span>Summer 2012</span>
+					</td>
+				</tr>
+				<tr>
+					<td><label for="comments">Comments/Questions</label></td>
+					<td><textarea id="comments" placeholder="Please enter your feedback"
+						class="fullWidth"></textarea></td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<div id="buttons">
+							<input type="submit" value="Submit" />
+							<input type="reset" value="Clear the form" />
+						<div>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>
