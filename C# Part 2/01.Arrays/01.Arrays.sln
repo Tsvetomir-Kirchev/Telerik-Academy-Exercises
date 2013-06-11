@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.AllocateAndPopulateArray", "01.AllocateAndPopulateArray\01.AllocateAndPopulateArray.csproj", "{960E4872-8A31-4DC5-A8EE-34063AEE5114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Compare2Arrays", "02.Compare2Arrays\02.Compare2Arrays.csproj", "{64D274A7-ED10-4227-AD59-F4D646227C28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{960E4872-8A31-4DC5-A8EE-34063AEE5114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{960E4872-8A31-4DC5-A8EE-34063AEE5114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{960E4872-8A31-4DC5-A8EE-34063AEE5114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D274A7-ED10-4227-AD59-F4D646227C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D274A7-ED10-4227-AD59-F4D646227C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D274A7-ED10-4227-AD59-F4D646227C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D274A7-ED10-4227-AD59-F4D646227C28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\02.Compare2Arrays\bin\Debug\02.Compare2Arrays.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\02.Compare2Arrays\bin\Debug\02.Compare2Arrays.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\02.Compare2Arrays\bin\Debug\02.Compare2Arrays.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\02.Compare2Arrays\obj\Debug\02.Compare2Arrays.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\02.Compare2Arrays\obj\Debug\02.Compare2Arrays.pdb
