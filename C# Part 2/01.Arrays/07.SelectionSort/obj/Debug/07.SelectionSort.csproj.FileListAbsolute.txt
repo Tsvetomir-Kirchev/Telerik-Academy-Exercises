@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb
