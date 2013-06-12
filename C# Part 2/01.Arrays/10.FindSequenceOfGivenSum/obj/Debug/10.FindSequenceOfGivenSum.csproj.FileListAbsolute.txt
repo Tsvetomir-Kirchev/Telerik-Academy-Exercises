@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.pdb
