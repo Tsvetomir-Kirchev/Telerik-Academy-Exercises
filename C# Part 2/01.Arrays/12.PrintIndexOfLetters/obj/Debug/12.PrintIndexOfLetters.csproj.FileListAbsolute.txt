@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\12.PrintIndexOfLetters\bin\Debug\12.PrintIndexOfLetters.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\12.PrintIndexOfLetters\bin\Debug\12.PrintIndexOfLetters.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\12.PrintIndexOfLetters\bin\Debug\12.PrintIndexOfLetters.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\12.PrintIndexOfLetters\obj\Debug\12.PrintIndexOfLetters.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\12.PrintIndexOfLetters\obj\Debug\12.PrintIndexOfLetters.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\12.PrintIndexOfLetters\obj\Debug\12.PrintIndexOfLetters.pdb
