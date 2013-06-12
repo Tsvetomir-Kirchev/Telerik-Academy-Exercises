@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\08.FindSequenceWithMaximalSum\bin\Debug\08.FindSequenceWithMaximalSum.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\08.FindSequenceWithMaximalSum\bin\Debug\08.FindSequenceWithMaximalSum.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\08.FindSequenceWithMaximalSum\bin\Debug\08.FindSequenceWithMaximalSum.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\08.FindSequenceWithMaximalSum\obj\Debug\08.FindSequenceWithMaximalSum.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\08.FindSequenceWithMaximalSum\obj\Debug\08.FindSequenceWithMaximalSum.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\08.FindSequenceWithMaximalSum\obj\Debug\08.FindSequenceWithMaximalSum.pdb
