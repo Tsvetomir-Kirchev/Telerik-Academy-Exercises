@@ -1,0 +1,40 @@
+body {
+	background-color: #a9a9a9;
+}
+
+header h1 {
+	color: #fafad2;
+}
+
+body > header h1 {
+	text-align: center;
+}
+
+nav {
+	margin: 0 auto;
+}
+
+nav ul {
+	list-style: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	background-color: #d3d3d3;
+	text-decoration: underline;
+}
+
+article >footer{
+	font-size: 12px;
+}
+
+body > footer {
+	text-align: center;
+}
