@@ -1,0 +1,34 @@
+table {
+	background-color: gray;
+	font-family: arial;	
+	font-size: 12px;
+}
+
+body{
+ color: white;
+}
+
+.sivo {
+	  color: #424047;	
+}
+
+.one {
+	color:red;
+}
+
+.two {
+	color: #FFEECB;
+}
+
+.three {
+ color: #FF7400;
+}
+
+.f {
+	font-style: oblique;
+}
+
+.s {
+	color:  #424047;
+	font-size: 20px;
+}
