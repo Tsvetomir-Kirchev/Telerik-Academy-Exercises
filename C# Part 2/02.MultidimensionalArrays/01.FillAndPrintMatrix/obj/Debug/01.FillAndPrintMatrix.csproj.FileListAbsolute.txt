@@ -3,3 +3,6 @@ F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.Mul
 F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\01.FillAndPrintMatrix\bin\Debug\01.FillAndPrintMatrix.pdb
 F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\01.FillAndPrintMatrix\obj\Debug\01.FillAndPrintMatrix.exe
 F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\01.FillAndPrintMatrix\obj\Debug\01.FillAndPrintMatrix.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\01.FillAndPrintMatrix\bin\Debug\01.FillAndPrintMatrix.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\01.FillAndPrintMatrix\obj\Debug\01.FillAndPrintMatrix.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\01.FillAndPrintMatrix\obj\Debug\01.FillAndPrintMatrix.pdb

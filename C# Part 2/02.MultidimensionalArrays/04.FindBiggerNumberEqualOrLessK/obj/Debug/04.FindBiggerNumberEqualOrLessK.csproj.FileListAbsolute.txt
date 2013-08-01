@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\04.FindBiggerNumberEqualOrLessK\bin\Debug\04.FindBiggerNumberEqualOrLessK.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\04.FindBiggerNumberEqualOrLessK\bin\Debug\04.FindBiggerNumberEqualOrLessK.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\04.FindBiggerNumberEqualOrLessK\bin\Debug\04.FindBiggerNumberEqualOrLessK.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\04.FindBiggerNumberEqualOrLessK\obj\Debug\04.FindBiggerNumberEqualOrLessK.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\04.FindBiggerNumberEqualOrLessK\obj\Debug\04.FindBiggerNumberEqualOrLessK.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\04.FindBiggerNumberEqualOrLessK\obj\Debug\04.FindBiggerNumberEqualOrLessK.pdb
