@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.pdb
