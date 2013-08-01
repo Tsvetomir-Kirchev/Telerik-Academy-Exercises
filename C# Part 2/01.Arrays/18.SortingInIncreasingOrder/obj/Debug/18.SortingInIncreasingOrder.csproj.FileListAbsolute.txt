@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\18.SortingInIncreasingOrder\bin\Debug\18.SortingInIncreasingOrder.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\18.SortingInIncreasingOrder\bin\Debug\18.SortingInIncreasingOrder.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\18.SortingInIncreasingOrder\bin\Debug\18.SortingInIncreasingOrder.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\18.SortingInIncreasingOrder\obj\Debug\18.SortingInIncreasingOrder.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\18.SortingInIncreasingOrder\obj\Debug\18.SortingInIncreasingOrder.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\18.SortingInIncreasingOrder\obj\Debug\18.SortingInIncreasingOrder.pdb
