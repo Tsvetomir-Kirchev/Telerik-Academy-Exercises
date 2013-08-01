@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\15.QuickSortOfStrings\bin\Debug\15.QuickSortOfStrings.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\15.QuickSortOfStrings\bin\Debug\15.QuickSortOfStrings.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\15.QuickSortOfStrings\bin\Debug\15.QuickSortOfStrings.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\15.QuickSortOfStrings\obj\Debug\15.QuickSortOfStrings.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\15.QuickSortOfStrings\obj\Debug\15.QuickSortOfStrings.pdb
