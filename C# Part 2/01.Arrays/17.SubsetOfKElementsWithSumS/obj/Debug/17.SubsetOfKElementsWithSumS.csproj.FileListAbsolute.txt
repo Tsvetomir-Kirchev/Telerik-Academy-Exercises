@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\17.SubsetOfKElementsWithSumS\bin\Debug\17.SubsetOfKElementsWithSumS.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\17.SubsetOfKElementsWithSumS\bin\Debug\17.SubsetOfKElementsWithSumS.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\17.SubsetOfKElementsWithSumS\bin\Debug\17.SubsetOfKElementsWithSumS.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\17.SubsetOfKElementsWithSumS\obj\Debug\17.SubsetOfKElementsWithSumS.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\17.SubsetOfKElementsWithSumS\obj\Debug\17.SubsetOfKElementsWithSumS.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\17.SubsetOfKElementsWithSumS\obj\Debug\17.SubsetOfKElementsWithSumS.pdb
