@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\06.Matrix\bin\Debug\06.Matrix.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\06.Matrix\bin\Debug\06.Matrix.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\06.Matrix\bin\Debug\06.Matrix.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\06.Matrix\obj\Debug\06.Matrix.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\06.Matrix\obj\Debug\06.Matrix.pdb
