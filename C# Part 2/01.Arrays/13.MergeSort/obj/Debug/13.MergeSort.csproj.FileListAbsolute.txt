@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\13.MergeSort\bin\Debug\13.MergeSort.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.pdb
