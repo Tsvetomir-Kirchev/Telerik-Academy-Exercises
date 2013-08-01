@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\20.GenerateAllVariations\bin\Debug\20.GenerateAllVariations.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\20.GenerateAllVariations\bin\Debug\20.GenerateAllVariations.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\20.GenerateAllVariations\bin\Debug\20.GenerateAllVariations.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\20.GenerateAllVariations\obj\Debug\20.GenerateAllVariations.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\20.GenerateAllVariations\obj\Debug\20.GenerateAllVariations.pdb
