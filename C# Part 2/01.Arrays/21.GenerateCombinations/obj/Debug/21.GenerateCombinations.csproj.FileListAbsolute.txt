@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\21.GenerateCombinations\bin\Debug\21.GenerateCombinations.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\21.GenerateCombinations\bin\Debug\21.GenerateCombinations.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\21.GenerateCombinations\bin\Debug\21.GenerateCombinations.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\21.GenerateCombinations\obj\Debug\21.GenerateCombinations.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\21.GenerateCombinations\obj\Debug\21.GenerateCombinations.pdb
