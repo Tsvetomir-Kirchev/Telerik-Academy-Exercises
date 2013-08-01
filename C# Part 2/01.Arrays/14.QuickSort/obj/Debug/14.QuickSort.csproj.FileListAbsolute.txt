@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\14.QuickSort\bin\Debug\14.QuickSort.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.pdb
