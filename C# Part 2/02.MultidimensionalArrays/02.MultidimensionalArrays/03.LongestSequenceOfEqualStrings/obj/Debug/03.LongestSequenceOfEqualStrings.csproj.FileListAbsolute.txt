@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.pdb

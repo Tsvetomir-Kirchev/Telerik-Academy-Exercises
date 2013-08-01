@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FillAndPrintMatrix", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MaximalSquare", "02.MaximalSquare\02.MaximalSquare.csproj", "{877E4DAA-F055-4561-9DF1-59A591BB9875}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LongestSequenceOfEqualStrings", "03.LongestSequenceOfEqualStrings\03.LongestSequenceOfEqualStrings.csproj", "{267E71EA-5465-4FAA-8372-2FA6F26AAA16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{877E4DAA-F055-4561-9DF1-59A591BB9875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{877E4DAA-F055-4561-9DF1-59A591BB9875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{877E4DAA-F055-4561-9DF1-59A591BB9875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267E71EA-5465-4FAA-8372-2FA6F26AAA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267E71EA-5465-4FAA-8372-2FA6F26AAA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267E71EA-5465-4FAA-8372-2FA6F26AAA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267E71EA-5465-4FAA-8372-2FA6F26AAA16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
