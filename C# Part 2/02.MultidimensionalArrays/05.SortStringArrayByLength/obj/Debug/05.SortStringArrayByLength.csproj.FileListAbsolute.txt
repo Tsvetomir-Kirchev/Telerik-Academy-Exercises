@@ -1,0 +1,5 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\05.SortStringArrayByLength\bin\Debug\05.SortStringArrayByLength.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\05.SortStringArrayByLength\bin\Debug\05.SortStringArrayByLength.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\05.SortStringArrayByLength\bin\Debug\05.SortStringArrayByLength.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\05.SortStringArrayByLength\obj\Debug\05.SortStringArrayByLength.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\05.SortStringArrayByLength\obj\Debug\05.SortStringArrayByLength.pdb
