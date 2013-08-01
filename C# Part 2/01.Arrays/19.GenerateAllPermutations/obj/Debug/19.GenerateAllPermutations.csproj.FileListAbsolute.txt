@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\19.GenerateAllPermutations\bin\Debug\19.GenerateAllPermutations.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\19.GenerateAllPermutations\bin\Debug\19.GenerateAllPermutations.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\19.GenerateAllPermutations\bin\Debug\19.GenerateAllPermutations.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\19.GenerateAllPermutations\obj\Debug\19.GenerateAllPermutations.csprojResolveAssemblyReference.cache
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\19.GenerateAllPermutations\obj\Debug\19.GenerateAllPermutations.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\01.Arrays\19.GenerateAllPermutations\obj\Debug\19.GenerateAllPermutations.pdb
