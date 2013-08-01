@@ -1,5 +1,0 @@
-F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSquare\bin\Debug\02.MaximalSquare.exe.config
-F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSquare\bin\Debug\02.MaximalSquare.exe
-F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSquare\bin\Debug\02.MaximalSquare.pdb
-F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSquare\obj\Debug\02.MaximalSquare.exe
-F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSquare\obj\Debug\02.MaximalSquare.pdb
