@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SortStringArrayByLength"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Matrix", "06.Matrix\06.Matrix.csproj", "{B00E0035-B74B-4EF1-8A72-616AB8FD17B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FindEqualNeghtborElements", "07.FindEqualNeghtborElements\07.FindEqualNeghtborElements.csproj", "{F8E7DBBE-76DD-468E-A808-581F79796719}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{B00E0035-B74B-4EF1-8A72-616AB8FD17B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B00E0035-B74B-4EF1-8A72-616AB8FD17B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B00E0035-B74B-4EF1-8A72-616AB8FD17B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E7DBBE-76DD-468E-A808-581F79796719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E7DBBE-76DD-468E-A808-581F79796719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E7DBBE-76DD-468E-A808-581F79796719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E7DBBE-76DD-468E-A808-581F79796719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

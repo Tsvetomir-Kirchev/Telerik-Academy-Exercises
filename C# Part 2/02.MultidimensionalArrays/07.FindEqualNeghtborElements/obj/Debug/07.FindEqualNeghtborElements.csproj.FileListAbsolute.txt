@@ -1,0 +1,6 @@
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\07.FindEqualNeghtborElements\bin\Debug\07.FindEqualNeghtborElements.exe.config
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\07.FindEqualNeghtborElements\bin\Debug\07.FindEqualNeghtborElements.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\07.FindEqualNeghtborElements\bin\Debug\07.FindEqualNeghtborElements.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\07.FindEqualNeghtborElements\obj\Debug\07.FindEqualNeghtborElements.exe
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\07.FindEqualNeghtborElements\obj\Debug\07.FindEqualNeghtborElements.pdb
+F:\__Github\Telerik-Academy-Exercises\C# Part 2\02.MultidimensionalArrays\07.FindEqualNeghtborElements\obj\Debug\07.FindEqualNeghtborElements.csprojResolveAssemblyReference.cache
