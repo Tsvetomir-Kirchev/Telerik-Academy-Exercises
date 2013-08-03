@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\03.LastDigitAsEnglishWord\bin\Debug\03.LastDigitAsEnglishWord.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\03.LastDigitAsEnglishWord\bin\Debug\03.LastDigitAsEnglishWord.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\03.LastDigitAsEnglishWord\bin\Debug\03.LastDigitAsEnglishWord.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\03.LastDigitAsEnglishWord\obj\Debug\03.LastDigitAsEnglishWord.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\03.LastDigitAsEnglishWord\obj\Debug\03.LastDigitAsEnglishWord.pdb
