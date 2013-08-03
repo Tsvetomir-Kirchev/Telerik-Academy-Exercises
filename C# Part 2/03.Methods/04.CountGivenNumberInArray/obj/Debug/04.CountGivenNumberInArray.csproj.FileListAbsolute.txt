@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\04.CountGivenNumberInArray\bin\Debug\04.CountGivenNumberInArray.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\04.CountGivenNumberInArray\bin\Debug\04.CountGivenNumberInArray.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\04.CountGivenNumberInArray\bin\Debug\04.CountGivenNumberInArray.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\04.CountGivenNumberInArray\obj\Debug\04.CountGivenNumberInArray.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\04.CountGivenNumberInArray\obj\Debug\04.CountGivenNumberInArray.pdb
