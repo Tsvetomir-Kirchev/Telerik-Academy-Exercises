@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\11.AddTwoPolinomials\bin\Debug\11.AddTwoPolinomials.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\11.AddTwoPolinomials\bin\Debug\11.AddTwoPolinomials.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\11.AddTwoPolinomials\bin\Debug\11.AddTwoPolinomials.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\11.AddTwoPolinomials\obj\Debug\11.AddTwoPolinomials.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\11.AddTwoPolinomials\obj\Debug\11.AddTwoPolinomials.pdb
