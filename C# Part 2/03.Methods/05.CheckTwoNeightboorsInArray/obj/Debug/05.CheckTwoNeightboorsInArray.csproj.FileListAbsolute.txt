@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\05.CheckTwoNeightboorsInArray\bin\Debug\05.CheckTwoNeightboorsInArray.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\05.CheckTwoNeightboorsInArray\bin\Debug\05.CheckTwoNeightboorsInArray.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\05.CheckTwoNeightboorsInArray\bin\Debug\05.CheckTwoNeightboorsInArray.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\05.CheckTwoNeightboorsInArray\obj\Debug\05.CheckTwoNeightboorsInArray.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\05.CheckTwoNeightboorsInArray\obj\Debug\05.CheckTwoNeightboorsInArray.pdb

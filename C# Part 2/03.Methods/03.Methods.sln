@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LastDigitAsEnglishWord",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CountGivenNumberInArray", "04.CountGivenNumberInArray\04.CountGivenNumberInArray.csproj", "{0F746663-1F11-48CF-ABAE-818E84C6DB5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CheckTwoNeightboorsInArray", "05.CheckTwoNeightboorsInArray\05.CheckTwoNeightboorsInArray.csproj", "{392678F0-5DFD-49C9-B98E-AA748212AE45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{0F746663-1F11-48CF-ABAE-818E84C6DB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F746663-1F11-48CF-ABAE-818E84C6DB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F746663-1F11-48CF-ABAE-818E84C6DB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392678F0-5DFD-49C9-B98E-AA748212AE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392678F0-5DFD-49C9-B98E-AA748212AE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392678F0-5DFD-49C9-B98E-AA748212AE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392678F0-5DFD-49C9-B98E-AA748212AE45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
