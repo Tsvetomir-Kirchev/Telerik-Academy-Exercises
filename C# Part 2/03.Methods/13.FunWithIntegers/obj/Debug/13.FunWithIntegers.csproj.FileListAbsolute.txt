@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\13.FunWithIntegers\bin\Debug\13.FunWithIntegers.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\13.FunWithIntegers\bin\Debug\13.FunWithIntegers.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\13.FunWithIntegers\bin\Debug\13.FunWithIntegers.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\13.FunWithIntegers\obj\Debug\13.FunWithIntegers.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\13.FunWithIntegers\obj\Debug\13.FunWithIntegers.pdb

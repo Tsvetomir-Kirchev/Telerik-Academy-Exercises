@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.AddTwoPolinomials", "11.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.SubtractAndMultiplyPolinomials", "12.SubtractAndMultiplyPolinomials\12.SubtractAndMultiplyPolinomials.csproj", "{B20B88A2-1343-4AEE-A70A-257AD1ACBC3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.FunWithIntegers", "13.FunWithIntegers\13.FunWithIntegers.csproj", "{9BEAFE7D-8A10-4A08-9690-F9AB6C9B164F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{B20B88A2-1343-4AEE-A70A-257AD1ACBC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B20B88A2-1343-4AEE-A70A-257AD1ACBC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B20B88A2-1343-4AEE-A70A-257AD1ACBC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BEAFE7D-8A10-4A08-9690-F9AB6C9B164F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEAFE7D-8A10-4A08-9690-F9AB6C9B164F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEAFE7D-8A10-4A08-9690-F9AB6C9B164F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEAFE7D-8A10-4A08-9690-F9AB6C9B164F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
