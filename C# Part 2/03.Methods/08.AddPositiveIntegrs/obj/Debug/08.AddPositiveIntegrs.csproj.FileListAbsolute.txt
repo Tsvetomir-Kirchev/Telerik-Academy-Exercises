@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\08.AddPositiveIntegrs\bin\Debug\08.AddPositiveIntegrs.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\08.AddPositiveIntegrs\bin\Debug\08.AddPositiveIntegrs.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\08.AddPositiveIntegrs\bin\Debug\08.AddPositiveIntegrs.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\08.AddPositiveIntegrs\obj\Debug\08.AddPositiveIntegrs.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\08.AddPositiveIntegrs\obj\Debug\08.AddPositiveIntegrs.pdb
