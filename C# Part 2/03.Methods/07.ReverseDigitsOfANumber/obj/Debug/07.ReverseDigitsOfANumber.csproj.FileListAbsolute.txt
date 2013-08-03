@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\07.ReverseDigitsOfANumber\bin\Debug\07.ReverseDigitsOfANumber.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\07.ReverseDigitsOfANumber\bin\Debug\07.ReverseDigitsOfANumber.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\07.ReverseDigitsOfANumber\bin\Debug\07.ReverseDigitsOfANumber.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\07.ReverseDigitsOfANumber\obj\Debug\07.ReverseDigitsOfANumber.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\07.ReverseDigitsOfANumber\obj\Debug\07.ReverseDigitsOfANumber.pdb
