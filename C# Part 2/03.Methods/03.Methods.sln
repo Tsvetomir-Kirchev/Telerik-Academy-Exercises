@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ReverseDigitsOfANumber",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AddPositiveIntegrs", "08.AddPositiveIntegrs\08.AddPositiveIntegrs.csproj", "{33474323-5998-483C-97B7-CD6CBB0400CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.FindMaximalElementInPortionOfArray", "09.FindMaximalElementInPortionOfArray\09.FindMaximalElementInPortionOfArray.csproj", "{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{33474323-5998-483C-97B7-CD6CBB0400CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33474323-5998-483C-97B7-CD6CBB0400CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33474323-5998-483C-97B7-CD6CBB0400CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

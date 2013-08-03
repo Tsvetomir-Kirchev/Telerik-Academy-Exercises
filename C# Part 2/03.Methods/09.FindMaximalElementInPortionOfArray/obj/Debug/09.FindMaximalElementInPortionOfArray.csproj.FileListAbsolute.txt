@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\09.FindMaximalElementInPortionOfArray\bin\Debug\09.FindMaximalElementInPortionOfArray.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\09.FindMaximalElementInPortionOfArray\bin\Debug\09.FindMaximalElementInPortionOfArray.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\09.FindMaximalElementInPortionOfArray\bin\Debug\09.FindMaximalElementInPortionOfArray.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\09.FindMaximalElementInPortionOfArray\obj\Debug\09.FindMaximalElementInPortionOfArray.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\09.FindMaximalElementInPortionOfArray\obj\Debug\09.FindMaximalElementInPortionOfArray.pdb
