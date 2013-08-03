@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\15.CalculateMethodsWithGenerics\bin\Debug\15.CalculateMethodsWithGenerics.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\15.CalculateMethodsWithGenerics\bin\Debug\15.CalculateMethodsWithGenerics.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\15.CalculateMethodsWithGenerics\bin\Debug\15.CalculateMethodsWithGenerics.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\15.CalculateMethodsWithGenerics\obj\Debug\15.CalculateMethodsWithGenerics.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\15.CalculateMethodsWithGenerics\obj\Debug\15.CalculateMethodsWithGenerics.pdb
