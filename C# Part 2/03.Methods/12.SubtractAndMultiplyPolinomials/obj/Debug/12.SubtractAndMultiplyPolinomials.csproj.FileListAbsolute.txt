@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\12.SubtractAndMultiplyPolinomials\bin\Debug\12.SubtractAndMultiplyPolinomials.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\12.SubtractAndMultiplyPolinomials\bin\Debug\12.SubtractAndMultiplyPolinomials.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\12.SubtractAndMultiplyPolinomials\bin\Debug\12.SubtractAndMultiplyPolinomials.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\12.SubtractAndMultiplyPolinomials\obj\Debug\12.SubtractAndMultiplyPolinomials.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\12.SubtractAndMultiplyPolinomials\obj\Debug\12.SubtractAndMultiplyPolinomials.pdb
