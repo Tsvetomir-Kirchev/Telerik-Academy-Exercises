@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\14.CalculateMethods\bin\Debug\14.CalculateMethods.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\14.CalculateMethods\bin\Debug\14.CalculateMethods.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\14.CalculateMethods\bin\Debug\14.CalculateMethods.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\14.CalculateMethods\obj\Debug\14.CalculateMethods.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\14.CalculateMethods\obj\Debug\14.CalculateMethods.pdb
