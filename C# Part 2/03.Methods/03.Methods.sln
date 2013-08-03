@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AddPositiveIntegrs", "08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.FindMaximalElementInPortionOfArray", "09.FindMaximalElementInPortionOfArray\09.FindMaximalElementInPortionOfArray.csproj", "{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.CalculateNFactorial", "10.CalculateNFactorial\10.CalculateNFactorial.csproj", "{F9901799-C7F6-46E2-91B9-EF1B378EC7F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39D56F62-2F63-4EB5-A32C-C9D17A8664BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9901799-C7F6-46E2-91B9-EF1B378EC7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9901799-C7F6-46E2-91B9-EF1B378EC7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9901799-C7F6-46E2-91B9-EF1B378EC7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9901799-C7F6-46E2-91B9-EF1B378EC7F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

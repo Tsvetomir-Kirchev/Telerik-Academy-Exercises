@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactorial.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactorial.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactorial.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\10.CalculateNFactorial\obj\Debug\10.CalculateNFactorial.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\03.Methods\10.CalculateNFactorial\obj\Debug\10.CalculateNFactorial.pdb
