@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\bin\Debug\04.ConvertHexadecimalToDecimal.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\bin\Debug\04.ConvertHexadecimalToDecimal.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\bin\Debug\04.ConvertHexadecimalToDecimal.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\obj\Debug\04.ConvertHexadecimalToDecimal.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\obj\Debug\04.ConvertHexadecimalToDecimal.pdb
