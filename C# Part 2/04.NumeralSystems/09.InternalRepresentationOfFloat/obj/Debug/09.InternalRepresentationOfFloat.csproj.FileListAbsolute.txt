@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\09.InternalRepresentationOfFloat\bin\Debug\09.InternalRepresentationOfFloat.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\09.InternalRepresentationOfFloat\bin\Debug\09.InternalRepresentationOfFloat.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\09.InternalRepresentationOfFloat\bin\Debug\09.InternalRepresentationOfFloat.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\09.InternalRepresentationOfFloat\obj\Debug\09.InternalRepresentationOfFloat.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\09.InternalRepresentationOfFloat\obj\Debug\09.InternalRepresentationOfFloat.pdb
