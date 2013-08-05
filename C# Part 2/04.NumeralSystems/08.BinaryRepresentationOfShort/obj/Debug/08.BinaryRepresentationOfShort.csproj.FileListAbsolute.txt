@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\08.BinaryRepresentationOfShort\bin\Debug\08.BinaryRepresentationOfShort.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\08.BinaryRepresentationOfShort\bin\Debug\08.BinaryRepresentationOfShort.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\08.BinaryRepresentationOfShort\bin\Debug\08.BinaryRepresentationOfShort.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\08.BinaryRepresentationOfShort\obj\Debug\08.BinaryRepresentationOfShort.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\08.BinaryRepresentationOfShort\obj\Debug\08.BinaryRepresentationOfShort.pdb
