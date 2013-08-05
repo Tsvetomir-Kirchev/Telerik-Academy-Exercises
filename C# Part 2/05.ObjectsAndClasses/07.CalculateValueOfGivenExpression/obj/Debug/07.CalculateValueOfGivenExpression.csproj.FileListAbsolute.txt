@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\07.CalculateValueOfGivenExpression\bin\Debug\07.CalculateValueOfGivenExpression.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\07.CalculateValueOfGivenExpression\bin\Debug\07.CalculateValueOfGivenExpression.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\07.CalculateValueOfGivenExpression\bin\Debug\07.CalculateValueOfGivenExpression.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\07.CalculateValueOfGivenExpression\obj\Debug\07.CalculateValueOfGivenExpression.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\07.CalculateValueOfGivenExpression\obj\Debug\07.CalculateValueOfGivenExpression.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\07.CalculateValueOfGivenExpression\obj\Debug\07.CalculateValueOfGivenExpression.pdb

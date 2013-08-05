@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CalculateNumberOfWrokDay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CalculateSum", "06.CalculateSum\06.CalculateSum.csproj", "{EDBC628D-55F2-4699-AD29-DBD28C8D15B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CalculateValueOfGivenExpression", "07.CalculateValueOfGivenExpression\07.CalculateValueOfGivenExpression.csproj", "{7A6C5C76-671F-4308-9596-633121780209}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{EDBC628D-55F2-4699-AD29-DBD28C8D15B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDBC628D-55F2-4699-AD29-DBD28C8D15B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDBC628D-55F2-4699-AD29-DBD28C8D15B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6C5C76-671F-4308-9596-633121780209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6C5C76-671F-4308-9596-633121780209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6C5C76-671F-4308-9596-633121780209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6C5C76-671F-4308-9596-633121780209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
