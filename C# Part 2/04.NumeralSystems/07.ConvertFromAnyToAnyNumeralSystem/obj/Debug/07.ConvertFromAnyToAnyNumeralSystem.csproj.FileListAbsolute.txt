@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\07.ConvertFromAnyToAnyNumeralSystem\bin\Debug\07.ConvertFromAnyToAnyNumeralSystem.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\07.ConvertFromAnyToAnyNumeralSystem\bin\Debug\07.ConvertFromAnyToAnyNumeralSystem.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\07.ConvertFromAnyToAnyNumeralSystem\bin\Debug\07.ConvertFromAnyToAnyNumeralSystem.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\07.ConvertFromAnyToAnyNumeralSystem\obj\Debug\07.ConvertFromAnyToAnyNumeralSystem.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\07.ConvertFromAnyToAnyNumeralSystem\obj\Debug\07.ConvertFromAnyToAnyNumeralSystem.pdb
