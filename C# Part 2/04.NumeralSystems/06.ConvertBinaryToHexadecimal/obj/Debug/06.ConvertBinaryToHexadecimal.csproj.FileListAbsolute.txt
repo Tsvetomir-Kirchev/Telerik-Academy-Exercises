@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\bin\Debug\06.ConvertBinaryToHexadecimal.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\bin\Debug\06.ConvertBinaryToHexadecimal.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\bin\Debug\06.ConvertBinaryToHexadecimal.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\obj\Debug\06.ConvertBinaryToHexadecimal.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\obj\Debug\06.ConvertBinaryToHexadecimal.pdb
