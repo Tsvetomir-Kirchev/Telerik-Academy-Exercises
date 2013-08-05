@@ -129,5 +129,22 @@ SELECT CONVERT(VARCHAR(10), GETDATE(), 104) + ' ' + CONVERT(VARCHAR(13), GETDATE
 --Define the primary key column as identity to facilitate inserting records.
 --Define unique constraint to avoid repeating usernames. 
 --Define a check constraint to ensure the password is at least 5 characters long.
-
+CREATE TABLE Users
+(
+	[UserId] INT NOT NULL PRIMARY KEY IDENTITY,
+	[UserName] VARCHAR(20) NOT NULL UNIQUE,
+	[Password] VARCHAR(20) NOT NULL CHECK(LEN(Password) >= 5),
+	[FullName] VARCHAR(40) NOT NULL,
+	[LastLoginTime] DATETIME DEFAULT GETDATE() NOT NULL
+)
+GO
+-----------------------------------------------------------------------------------------------------
+--Write a SQL statement to create a view that displays the users from the Users table 
+--that have been in the system today. Test if the view works correctly.
+CREATE VIEW UsersForToday 
+AS
+	SELECT * FROM Users WHERE 
+	DATEDIFF(DAY, DATEADD(DAY, 0, CURRENT_TIMESTAMP), LastLoginTime) = 0
+-----------------------------------------------------------------------------------------------------
+17
 -----------------------------------------------------------------------------------------------------
