@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\05.CalculateNumberOfWrokDays\bin\Debug\05.CalculateNumberOfWrokDays.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\05.CalculateNumberOfWrokDays\bin\Debug\05.CalculateNumberOfWrokDays.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\05.CalculateNumberOfWrokDays\bin\Debug\05.CalculateNumberOfWrokDays.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\05.CalculateNumberOfWrokDays\obj\Debug\05.CalculateNumberOfWrokDays.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\05.CalculateNumberOfWrokDays\obj\Debug\05.CalculateNumberOfWrokDays.pdb
