@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\01.CheckYearForLeap\bin\Debug\01.CheckYearForLeap.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\01.CheckYearForLeap\bin\Debug\01.CheckYearForLeap.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\01.CheckYearForLeap\bin\Debug\01.CheckYearForLeap.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\01.CheckYearForLeap\obj\Debug\01.CheckYearForLeap.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\01.CheckYearForLeap\obj\Debug\01.CheckYearForLeap.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\01.CheckYearForLeap\obj\Debug\01.CheckYearForLeap.pdb
