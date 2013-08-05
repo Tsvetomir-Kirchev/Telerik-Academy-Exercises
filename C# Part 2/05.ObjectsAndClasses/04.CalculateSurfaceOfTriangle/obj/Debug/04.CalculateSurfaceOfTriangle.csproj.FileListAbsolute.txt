@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.pdb
