@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\06.CalculateSum\bin\Debug\06.CalculateSum.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\06.CalculateSum\bin\Debug\06.CalculateSum.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\06.CalculateSum\bin\Debug\06.CalculateSum.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\06.CalculateSum\obj\Debug\06.CalculateSum.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\05.ObjectsAndClasses\06.CalculateSum\obj\Debug\06.CalculateSum.pdb
