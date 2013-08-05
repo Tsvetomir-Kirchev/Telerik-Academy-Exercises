@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CheckYearForLeap", "01.CheckYearForLeap\01.CheckYearForLeap.csproj", "{52268F3C-745F-4471-B404-BD3D2E71F329}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenerateAndPrintRandomNumbers", "02.GenerateAndPrintRandomNumbers\02.GenerateAndPrintRandomNumbers.csproj", "{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{52268F3C-745F-4471-B404-BD3D2E71F329}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52268F3C-745F-4471-B404-BD3D2E71F329}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52268F3C-745F-4471-B404-BD3D2E71F329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
