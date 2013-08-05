@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CheckYearForLeap", "01.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenerateAndPrintRandomNumbers", "02.GenerateAndPrintRandomNumbers\02.GenerateAndPrintRandomNumbers.csproj", "{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PrintWhichDayIsToday", "03.PrintWhichDayIsToday\03.PrintWhichDayIsToday.csproj", "{A11328B4-A8BB-4556-A52E-E911EE70ED62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E5A8055-8E5F-4E8D-8A28-6AA1700DAC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11328B4-A8BB-4556-A52E-E911EE70ED62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11328B4-A8BB-4556-A52E-E911EE70ED62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11328B4-A8BB-4556-A52E-E911EE70ED62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11328B4-A8BB-4556-A52E-E911EE70ED62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
