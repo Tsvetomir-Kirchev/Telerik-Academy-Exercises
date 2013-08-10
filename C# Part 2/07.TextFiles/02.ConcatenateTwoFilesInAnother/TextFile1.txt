@@ -1,0 +1,4 @@
+﻿Text1 file begins here
+some text
+hahahahaha
+Text1 file ends here

@@ -1,0 +1,6 @@
+Text1 file begins here
+some text
+hahahahaha
+Text1 file ends hereText2 file begins here
+this must append in the result file, after the first file
+Text2 file ends here
