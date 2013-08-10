@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CalculateAndPrintSquare", "01.CalculateAndPrintSquare\01.CalculateAndPrintSquare.csproj", "{359AA853-E960-44CD-A6AC-9FD5FE2BBEEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReadNumbersInGivenRange", "02.ReadNumbersInGivenRange\02.ReadNumbersInGivenRange.csproj", "{E6175EB1-FC5A-4F4B-A178-878E7604C5DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{359AA853-E960-44CD-A6AC-9FD5FE2BBEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{359AA853-E960-44CD-A6AC-9FD5FE2BBEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{359AA853-E960-44CD-A6AC-9FD5FE2BBEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6175EB1-FC5A-4F4B-A178-878E7604C5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6175EB1-FC5A-4F4B-A178-878E7604C5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6175EB1-FC5A-4F4B-A178-878E7604C5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6175EB1-FC5A-4F4B-A178-878E7604C5DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
