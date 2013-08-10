@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\01.CalculateAndPrintSquare\bin\Debug\01.CalculateAndPrintSquare.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\01.CalculateAndPrintSquare\bin\Debug\01.CalculateAndPrintSquare.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\01.CalculateAndPrintSquare\bin\Debug\01.CalculateAndPrintSquare.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\01.CalculateAndPrintSquare\obj\Debug\01.CalculateAndPrintSquare.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\01.CalculateAndPrintSquare\obj\Debug\01.CalculateAndPrintSquare.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\01.CalculateAndPrintSquare\obj\Debug\01.CalculateAndPrintSquare.pdb
