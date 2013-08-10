@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\08.ReplaceOnlyHoleWords\bin\Debug\08.ReplaceOnlyHoleWords.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\08.ReplaceOnlyHoleWords\bin\Debug\08.ReplaceOnlyHoleWords.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\08.ReplaceOnlyHoleWords\bin\Debug\08.ReplaceOnlyHoleWords.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\08.ReplaceOnlyHoleWords\obj\Debug\08.ReplaceOnlyHoleWords.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\08.ReplaceOnlyHoleWords\obj\Debug\08.ReplaceOnlyHoleWords.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\08.ReplaceOnlyHoleWords\obj\Debug\08.ReplaceOnlyHoleWords.csprojResolveAssemblyReference.cache
