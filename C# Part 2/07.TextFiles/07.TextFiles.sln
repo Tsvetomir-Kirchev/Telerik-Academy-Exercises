@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CompareTwoTextFiles", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FindMaximalAreaOfMatrix", "05.FindMaximalAreaOfMatrix\05.FindMaximalAreaOfMatrix.csproj", "{7F7891C3-242C-4DF8-AD8D-B2ADEF2DE068}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SortStrings", "06.SortStrings\06.SortStrings.csproj", "{33E17CE5-3ED3-4C02-A28B-F670BCCA2D66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{7F7891C3-242C-4DF8-AD8D-B2ADEF2DE068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7891C3-242C-4DF8-AD8D-B2ADEF2DE068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7891C3-242C-4DF8-AD8D-B2ADEF2DE068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E17CE5-3ED3-4C02-A28B-F670BCCA2D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E17CE5-3ED3-4C02-A28B-F670BCCA2D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E17CE5-3ED3-4C02-A28B-F670BCCA2D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E17CE5-3ED3-4C02-A28B-F670BCCA2D66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

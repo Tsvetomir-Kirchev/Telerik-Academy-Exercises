@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\06.SortStrings\bin\Debug\06.SortStrings.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\06.SortStrings\bin\Debug\06.SortStrings.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\06.SortStrings\bin\Debug\06.SortStrings.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\06.SortStrings\obj\Debug\06.SortStrings.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\06.SortStrings\obj\Debug\06.SortStrings.pdb
