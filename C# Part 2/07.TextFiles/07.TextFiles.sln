@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ReplaceStartWithFinish",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ReplaceOnlyHoleWords", "08.ReplaceOnlyHoleWords\08.ReplaceOnlyHoleWords.csproj", "{52CC45D9-2FC5-4E4D-AC8A-67560CE131B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.DeleteOddLines", "09.DeleteOddLines\09.DeleteOddLines.csproj", "{0AC6B24C-0E92-4905-A509-E970CEF07E40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{52CC45D9-2FC5-4E4D-AC8A-67560CE131B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52CC45D9-2FC5-4E4D-AC8A-67560CE131B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52CC45D9-2FC5-4E4D-AC8A-67560CE131B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC6B24C-0E92-4905-A509-E970CEF07E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC6B24C-0E92-4905-A509-E970CEF07E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC6B24C-0E92-4905-A509-E970CEF07E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC6B24C-0E92-4905-A509-E970CEF07E40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

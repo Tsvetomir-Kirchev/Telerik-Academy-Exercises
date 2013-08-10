@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb
