@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\03.ReadFile\bin\Debug\03.ReadFile.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\03.ReadFile\obj\Debug\03.ReadFile.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\03.ReadFile\bin\Debug\03.ReadFile.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\03.ReadFile\bin\Debug\03.ReadFile.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\03.ReadFile\obj\Debug\03.ReadFile.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\03.ReadFile\obj\Debug\03.ReadFile.pdb
