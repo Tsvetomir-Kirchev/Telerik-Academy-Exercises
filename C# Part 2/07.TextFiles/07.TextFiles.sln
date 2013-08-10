@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PrintOddLinesFromFile", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ConcatenateTwoFilesInAnother", "02.ConcatenateTwoFilesInAnother\02.ConcatenateTwoFilesInAnother.csproj", "{3BAF515F-EFBD-44E3-8382-165321E328E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WriteFileToOtherWithLineNumbers", "03.WriteFileToOtherWithLineNumbers\03.WriteFileToOtherWithLineNumbers.csproj", "{32B35645-5695-40AE-9FF7-8E9639AA2065}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{3BAF515F-EFBD-44E3-8382-165321E328E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BAF515F-EFBD-44E3-8382-165321E328E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BAF515F-EFBD-44E3-8382-165321E328E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B35645-5695-40AE-9FF7-8E9639AA2065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B35645-5695-40AE-9FF7-8E9639AA2065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B35645-5695-40AE-9FF7-8E9639AA2065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B35645-5695-40AE-9FF7-8E9639AA2065}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

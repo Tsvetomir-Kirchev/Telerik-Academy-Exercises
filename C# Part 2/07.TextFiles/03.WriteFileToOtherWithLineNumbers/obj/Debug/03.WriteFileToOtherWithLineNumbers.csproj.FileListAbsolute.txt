@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\03.WriteFileToOtherWithLineNumbers\bin\Debug\03.WriteFileToOtherWithLineNumbers.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\03.WriteFileToOtherWithLineNumbers\bin\Debug\03.WriteFileToOtherWithLineNumbers.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\03.WriteFileToOtherWithLineNumbers\bin\Debug\03.WriteFileToOtherWithLineNumbers.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\03.WriteFileToOtherWithLineNumbers\obj\Debug\03.WriteFileToOtherWithLineNumbers.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\03.WriteFileToOtherWithLineNumbers\obj\Debug\03.WriteFileToOtherWithLineNumbers.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\03.WriteFileToOtherWithLineNumbers\obj\Debug\03.WriteFileToOtherWithLineNumbers.pdb
