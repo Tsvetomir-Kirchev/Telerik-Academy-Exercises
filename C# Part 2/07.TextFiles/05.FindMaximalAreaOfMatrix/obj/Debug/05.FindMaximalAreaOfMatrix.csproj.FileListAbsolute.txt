@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\05.FindMaximalAreaOfMatrix\bin\Debug\05.FindMaximalAreaOfMatrix.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\05.FindMaximalAreaOfMatrix\obj\Debug\05.FindMaximalAreaOfMatrix.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\05.FindMaximalAreaOfMatrix\bin\Debug\05.FindMaximalAreaOfMatrix.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\05.FindMaximalAreaOfMatrix\bin\Debug\05.FindMaximalAreaOfMatrix.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\05.FindMaximalAreaOfMatrix\obj\Debug\05.FindMaximalAreaOfMatrix.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\05.FindMaximalAreaOfMatrix\obj\Debug\05.FindMaximalAreaOfMatrix.pdb
