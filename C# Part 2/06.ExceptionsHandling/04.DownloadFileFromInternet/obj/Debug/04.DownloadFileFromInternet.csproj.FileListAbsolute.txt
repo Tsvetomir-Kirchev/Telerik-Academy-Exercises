@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\06.ExceptionsHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.pdb
