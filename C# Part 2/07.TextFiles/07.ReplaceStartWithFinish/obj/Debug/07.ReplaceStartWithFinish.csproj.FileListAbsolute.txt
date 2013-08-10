@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\07.ReplaceStartWithFinish\bin\Debug\07.ReplaceStartWithFinish.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\07.ReplaceStartWithFinish\bin\Debug\07.ReplaceStartWithFinish.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\07.ReplaceStartWithFinish\bin\Debug\07.ReplaceStartWithFinish.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\07.ReplaceStartWithFinish\obj\Debug\07.ReplaceStartWithFinish.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\07.ReplaceStartWithFinish\obj\Debug\07.ReplaceStartWithFinish.pdb
