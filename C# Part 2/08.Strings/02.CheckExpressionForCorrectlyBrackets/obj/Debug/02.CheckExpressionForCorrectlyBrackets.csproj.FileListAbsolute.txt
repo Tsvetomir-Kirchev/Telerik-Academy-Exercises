@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\02.CheckExpressionForCorrectlyBrackets\bin\Debug\02.CheckExpressionForCorrectlyBrackets.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\02.CheckExpressionForCorrectlyBrackets\bin\Debug\02.CheckExpressionForCorrectlyBrackets.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\02.CheckExpressionForCorrectlyBrackets\bin\Debug\02.CheckExpressionForCorrectlyBrackets.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\02.CheckExpressionForCorrectlyBrackets\obj\Debug\02.CheckExpressionForCorrectlyBrackets.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\02.CheckExpressionForCorrectlyBrackets\obj\Debug\02.CheckExpressionForCorrectlyBrackets.pdb
