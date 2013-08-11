@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\01.ReverseString\bin\Debug\01.ReverseString.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\01.ReverseString\bin\Debug\01.ReverseString.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\01.ReverseString\obj\Debug\01.ReverseString.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\01.ReverseString\obj\Debug\01.ReverseString.pdb
