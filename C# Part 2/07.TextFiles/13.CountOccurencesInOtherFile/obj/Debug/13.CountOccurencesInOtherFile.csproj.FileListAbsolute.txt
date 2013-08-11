@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\13.CountOccurencesInOtherFile\bin\Debug\13.CountOccurencesInOtherFile.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\13.CountOccurencesInOtherFile\bin\Debug\13.CountOccurencesInOtherFile.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\13.CountOccurencesInOtherFile\bin\Debug\13.CountOccurencesInOtherFile.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\13.CountOccurencesInOtherFile\obj\Debug\13.CountOccurencesInOtherFile.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\13.CountOccurencesInOtherFile\obj\Debug\13.CountOccurencesInOtherFile.pdb
