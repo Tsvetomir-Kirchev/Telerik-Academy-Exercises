@@ -1,0 +1,2 @@
+Word some other strings
+some text to delete: DeleteMe

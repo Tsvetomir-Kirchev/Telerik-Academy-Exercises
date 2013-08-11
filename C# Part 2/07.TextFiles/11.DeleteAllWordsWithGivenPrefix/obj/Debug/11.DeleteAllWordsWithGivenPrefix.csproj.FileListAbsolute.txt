@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\11.DeleteAllWordsWithGivenPrefix\bin\Debug\11.DeleteAllWordsWithGivenPrefix.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\11.DeleteAllWordsWithGivenPrefix\bin\Debug\11.DeleteAllWordsWithGivenPrefix.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\11.DeleteAllWordsWithGivenPrefix\bin\Debug\11.DeleteAllWordsWithGivenPrefix.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\11.DeleteAllWordsWithGivenPrefix\obj\Debug\11.DeleteAllWordsWithGivenPrefix.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\11.DeleteAllWordsWithGivenPrefix\obj\Debug\11.DeleteAllWordsWithGivenPrefix.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\11.DeleteAllWordsWithGivenPrefix\obj\Debug\11.DeleteAllWordsWithGivenPrefix.pdb
