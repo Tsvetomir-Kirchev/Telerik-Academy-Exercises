@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\12.RemoveAllWordsFromOtherFile\bin\Debug\12.RemoveAllWordsFromOtherFile.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\12.RemoveAllWordsFromOtherFile\bin\Debug\12.RemoveAllWordsFromOtherFile.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\12.RemoveAllWordsFromOtherFile\bin\Debug\12.RemoveAllWordsFromOtherFile.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\12.RemoveAllWordsFromOtherFile\obj\Debug\12.RemoveAllWordsFromOtherFile.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\07.TextFiles\12.RemoveAllWordsFromOtherFile\obj\Debug\12.RemoveAllWordsFromOtherFile.pdb
