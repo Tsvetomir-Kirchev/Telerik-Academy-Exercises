@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ReplaceOnlyHoleWords", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.DeleteOddLines", "09.DeleteOddLines\09.DeleteOddLines.csproj", "{0AC6B24C-0E92-4905-A509-E970CEF07E40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ExtractTextFromXml", "10.ExtractTextFromXml\10.ExtractTextFromXml.csproj", "{22EBB8A3-2BC6-4A28-9F14-C954DD4920D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{0AC6B24C-0E92-4905-A509-E970CEF07E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AC6B24C-0E92-4905-A509-E970CEF07E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AC6B24C-0E92-4905-A509-E970CEF07E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EBB8A3-2BC6-4A28-9F14-C954DD4920D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EBB8A3-2BC6-4A28-9F14-C954DD4920D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EBB8A3-2BC6-4A28-9F14-C954DD4920D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EBB8A3-2BC6-4A28-9F14-C954DD4920D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
