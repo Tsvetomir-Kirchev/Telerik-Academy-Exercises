@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\03.SubstringCounter\bin\Debug\03.SubstringCounter.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\03.SubstringCounter\bin\Debug\03.SubstringCounter.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\03.SubstringCounter\bin\Debug\03.SubstringCounter.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\03.SubstringCounter\obj\Debug\03.SubstringCounter.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\03.SubstringCounter\obj\Debug\03.SubstringCounter.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\03.SubstringCounter\obj\Debug\03.SubstringCounter.pdb

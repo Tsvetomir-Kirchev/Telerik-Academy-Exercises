@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseString", "01.Reve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CheckExpressionForCorrectlyBrackets", "02.CheckExpressionForCorrectlyBrackets\02.CheckExpressionForCorrectlyBrackets.csproj", "{E3ABBE54-F89F-44B5-9953-8BC411D419C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SubstringCounter", "03.SubstringCounter\03.SubstringCounter.csproj", "{BA55B0C7-AE86-4603-AC81-C04CCFC15878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{E3ABBE54-F89F-44B5-9953-8BC411D419C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3ABBE54-F89F-44B5-9953-8BC411D419C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3ABBE54-F89F-44B5-9953-8BC411D419C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA55B0C7-AE86-4603-AC81-C04CCFC15878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA55B0C7-AE86-4603-AC81-C04CCFC15878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA55B0C7-AE86-4603-AC81-C04CCFC15878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA55B0C7-AE86-4603-AC81-C04CCFC15878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
