@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SubstringCounter", "03.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Upcase", "04.Upcase\04.Upcase.csproj", "{7610181E-2823-46A1-A83C-E76AEE0E12AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ReadString", "05.ReadString\05.ReadString.csproj", "{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{7610181E-2823-46A1-A83C-E76AEE0E12AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7610181E-2823-46A1-A83C-E76AEE0E12AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7610181E-2823-46A1-A83C-E76AEE0E12AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
