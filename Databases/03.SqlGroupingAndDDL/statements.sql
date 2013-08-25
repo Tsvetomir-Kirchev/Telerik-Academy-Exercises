@@ -146,5 +146,84 @@ AS
 	SELECT * FROM Users WHERE 
 	DATEDIFF(DAY, DATEADD(DAY, 0, CURRENT_TIMESTAMP), LastLoginTime) = 0
 -----------------------------------------------------------------------------------------------------
-17
+--Write a SQL statement to create a table Groups. Groups should have unique name
+-- (use unique constraint). Define primary key and identity column.
+CREATE TABLE Groups
+(
+	GroupId INT PRIMARY KEY IDENTITY,
+	Name NVARCHAR(100),
+	CONSTRAINT UC_Name UNIQUE(Name)
+);
+-----------------------------------------------------------------------------------------------------
+--Write a SQL statement to add a column GroupID to the table Users. 
+--Fill some data in this new column and as well in the Groups table. 
+--Write a SQL statement to add a foreign key constraint between tables Users and Groups tables.
+ALTER TABLE [dbo].[Users]
+	ADD GroupId INT
+GO
+
+INSERT INTO [dbo].[Users]
+	VALUES('Tsvetomir', '12345', 'Tsvetomir Kirchev', GETDATE(), 1)
+GO
+INSERT INTO [dbo].[Users]
+	VALUES('John', 'qwerty', 'Johny Walker', GETDATE(), 1)
+GO
+INSERT INTO [dbo].[Users]
+	VALUES('Kubrat', '12345', 'Han Kubrat', GETDATE(), 1)
+GO
+
+ALTER TABLE [dbo].[Users] NOCHECK CONSTRAINT ALL
+ALTER TABLE [dbo].Groups NOCHECK CONSTRAINT ALL
+GO
+
+ALTER TABLE [dbo].[Users]
+	ADD CONSTRAINT FK_Users_Groups FOREIGN KEY(GroupId)
+	REFERENCES Groups(GroupId)
+GO
+
+ALTER TABLE [dbo].[Users] WITH CHECK CHECK CONSTRAINT ALL
+ALTER TABLE [dbo].Groups WITH CHECK CHECK CONSTRAINT ALL
+GO
+-----------------------------------------------------------------------------------------------------
+--Write SQL statements to insert several records in the Users and Groups tables.
+INSERT INTO [dbo].[Groups]
+	VALUES('sample group')
+GO
+INSERT INTO [dbo].[Groups]
+	VALUES('other group')
+GO
+INSERT INTO [dbo].[Groups]
+	VALUES('the cool group')
+GO
+
+INSERT INTO [dbo].[Users]
+	VALUES('Kai', 'kai123', 'Kai Green', GETDATE(), 3)
+GO
+INSERT INTO [dbo].[Users]
+	VALUES('Jack', 'onclejack', 'Jack Daniels', GETDATE(), 1)
+GO
+-----------------------------------------------------------------------------------------------------
+--Write SQL statements to update some of the records in the Users and Groups tables.
+UPDATE Groups
+SET Name = 'hacker group'
+WHERE Name = 'sample group'
+
+UPDATE Users
+SET UserName = 'Hacker', GroupId = (SELECT GroupId FROM Groups WHERE Name = 'hacker group')
+WHERE UserName = 'Tsvetomir'
+-----------------------------------------------------------------------------------------------------
+--Write SQL statements to delete some of the records from the Users and Groups tables.
+DELETE FROM Groups
+WHERE Name = 'other group'
+
+DELETE FROM Users
+WHERE UserName = 'John'
+-----------------------------------------------------------------------------------------------------
+--Write SQL statements to insert in the Users table the names of all employees 
+--from the Employees table. Combine the first and last names as a full name. 
+--For username use the first letter of the first name + the last name (in lowercase). 
+--Use the same for the password, and NULL for last login time.
+
+-----------------------------------------------------------------------------------------------------
+23
 -----------------------------------------------------------------------------------------------------
