@@ -223,7 +223,66 @@ WHERE UserName = 'John'
 --from the Employees table. Combine the first and last names as a full name. 
 --For username use the first letter of the first name + the last name (in lowercase). 
 --Use the same for the password, and NULL for last login time.
+INSERT INTO Users(UserName, [Password], FullName, LastLoginTime, GroupId)
+SELECT 
+	LOWER(SUBSTRING(FirstName, 1, 1) + LastName),
+	LOWER(SUBSTRING(FirstName, 1, 1) + LastName),
+	FirstName + ' ' + LastName,
+	null,
+	1
+FROM TelerikAcademy.dbo.Employees
+-----------------------------------------------------------------------------------------------------
+--Write a SQL statement that changes the password to NULL for all users that 
+--have not been in the system since 10.03.2010.
+UPDATE Users
+	SET Password = NULL
+WHERE LastLoginTime > '10.03.2010'
+-----------------------------------------------------------------------------------------------------
+--Write a SQL statement that deletes all users without passwords (NULL password).
+DELETE FROM Users
+WHERE Password IS NULL
+-----------------------------------------------------------------------------------------------------
+--Write a SQL query to display the average employee salary by department and job title.
+SELECT AVG(Salary) AS [Average Salary By Department and JobTitle]
+FROM Employees
+GROUP BY DepartmentID, JobTitle
+-----------------------------------------------------------------------------------------------------
+--Write a SQL query to display the minimal employee salary by department and job title 
+--along with the name of some of the employees that take it.
+SELECT MIN(Salary), MIN(FirstName)
+FROM Employees
+GROUP BY DepartmentID, JobTitle
+-----------------------------------------------------------------------------------------------------
+--Write a SQL query to display the town where maximal number of employees work.
+SELECT TOP(1) t.Name
+FROM Employees e 
+	INNER JOIN Addresses a 
+		ON e.AddressId = a.AddressId
+	INNER JOIN Towns t 
+		ON t.TownId = a.TownId
+GROUP BY t.TownId, t.Name
+ORDER BY COUNT(*) DESC;
+-----------------------------------------------------------------------------------------------------
+--Write a SQL query to display the number of managers from each town.
+SELECT t.Name AS [Town], 
+	COUNT(DISTINCT(m.EmployeeId)) AS [Number of Managers]
+FROM Employees e
+	INNER JOIN Employees m
+		ON e.ManagerID = m.EmployeeID 
+	INNER JOIN Addresses a 
+		ON e.AddressId = a.AddressId
+	INNER JOIN Towns t 
+		ON t.TownId = a.TownId
+WHERE e.ManagerId IS NOT NULL
+GROUP BY t.TownId, t.Name
+-----------------------------------------------------------------------------------------------------
+--Write a SQL to create table WorkHours to store work reports for each employee 
+--(employee id, date, task, hours, comments). Don't forget to define  identity, 
+--primary key and appropriate foreign key. Issue few SQL statements to insert, 
+--update and delete of some data in the table. Define a table WorkHoursLogs to track 
+--all changes in the WorkHours table with triggers. For each change keep the old record data, 
+--the new record data and the command (insert / update / delete).
 
 -----------------------------------------------------------------------------------------------------
-23
+30
 -----------------------------------------------------------------------------------------------------
