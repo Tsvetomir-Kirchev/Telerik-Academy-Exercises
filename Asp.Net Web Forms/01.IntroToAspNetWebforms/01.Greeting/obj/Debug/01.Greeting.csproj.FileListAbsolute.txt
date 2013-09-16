@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\01.Greeting\bin\01.Greeting.dll.config
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\01.Greeting\bin\01.Greeting.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\01.Greeting\bin\01.Greeting.pdb
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\01.Greeting\obj\Debug\01.Greeting.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\01.Greeting\obj\Debug\01.Greeting.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\01.Greeting\obj\Debug\01.Greeting.pdb
