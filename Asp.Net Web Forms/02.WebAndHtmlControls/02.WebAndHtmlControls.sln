@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RandomNumberGenerator", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RandomNumberGeneratorWebControls", "02.RandomNumberGeneratorWebControls\02.RandomNumberGeneratorWebControls.csproj", "{0DFD4D7B-0DA3-415D-A7E5-298AD0AF3AA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ShowEnteredText", "03.ShowEnteredText\03.ShowEnteredText.csproj", "{7ED1A532-174B-4AC3-A1E9-9F1E920FACA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0DFD4D7B-0DA3-415D-A7E5-298AD0AF3AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DFD4D7B-0DA3-415D-A7E5-298AD0AF3AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DFD4D7B-0DA3-415D-A7E5-298AD0AF3AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED1A532-174B-4AC3-A1E9-9F1E920FACA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED1A532-174B-4AC3-A1E9-9F1E920FACA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED1A532-174B-4AC3-A1E9-9F1E920FACA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED1A532-174B-4AC3-A1E9-9F1E920FACA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
