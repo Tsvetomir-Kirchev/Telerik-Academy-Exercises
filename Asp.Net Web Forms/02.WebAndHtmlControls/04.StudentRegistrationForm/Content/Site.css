@@ -1,0 +1,41 @@
+﻿#Registration {
+    width: 300px;
+    margin: 50px auto;
+}
+
+#Registration div {
+    margin: 10px 0;
+    padding: 10px;
+}
+
+#Registration input, #Registration select {
+    float: right;
+}
+
+#Registration span {
+    float: left;
+}
+
+#Registration input[type=submit] {
+    float: left;
+    margin-top: 20px;
+}
+
+#Summary {
+    width: 300px;
+    margin: 50px auto;
+}
+
+#Summary ul {
+    float: right;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+#Summary h3 {
+    text-align: center;
+}
+
+.float-right {
+    float: right;
+}
