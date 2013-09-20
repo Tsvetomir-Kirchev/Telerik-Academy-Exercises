@@ -24,6 +24,8 @@ namespace _05.TicTacToe
                 playerScores = 0;
                 computerScores = 0;
                 InitGame();
+                Page page = this.Page;
+                UpdateScores(page);
             }
         }
 
@@ -63,20 +65,18 @@ namespace _05.TicTacToe
                         btn.CssClass = "defaultBtnStyle";
                     }
                 }
-                Label lbPlayerScores = (Label)page.FindControl("LbPlayerScores");
-                lbPlayerScores.Text = "You: " + playerScores;
-                Label lbComputerScores = (Label)page.FindControl("LbComputerScores");
-                lbComputerScores.Text = "Computer: " + computerScores;
-                Label lbWinner = (Label)page.FindControl("Winner");
-                lbWinner.Text = "";
-                lbWinner.Visible = true;
             }
         }
 
-        protected void Btn_Click(object sender, EventArgs e)
+        private static void UpdateScores(Page page)
         {
-            string btnId = ((Button)sender).ID;
-            GetInput(btnId);
+            Label lbPlayerScores = (Label)page.FindControl("LbPlayerScores");
+            lbPlayerScores.Text = "You: " + playerScores;
+            Label lbComputerScores = (Label)page.FindControl("LbComputerScores");
+            lbComputerScores.Text = "Computer: " + computerScores;
+            Label lbWinner = (Label)page.FindControl("Winner");
+            lbWinner.Text = "";
+            lbWinner.Visible = true;
         }
 
         private static void GetInput(string btnId)
@@ -133,26 +133,11 @@ namespace _05.TicTacToe
                     lbWinner.Text = "You win!";
                     lbWinner.Visible = true;
                     playerScores++;
+                    UpdateScores(page);
                     return;
                 }
                 ComputerMove();
             }
-        }
-
-        private static void HighlightWinBoxes(Position p1, Position p2, Position p3)
-        {
-            Button btn = new Button();
-            Page page = new Page();
-            if (HttpContext.Current != null)
-            {
-                page = (Page)HttpContext.Current.Handler;
-            }
-            btn = (Button)page.FindControl("Btn" + p1.X + p1.Y);
-            btn.CssClass = "higlightWinBoxes";
-            btn = (Button)page.FindControl("Btn" + p2.X + p2.Y);
-            btn.CssClass = "higlightWinBoxes";
-            btn = (Button)page.FindControl("Btn" + p3.X + p3.Y);
-            btn.CssClass = "higlightWinBoxes";
         }
 
         private static void ComputerMove()
@@ -181,6 +166,7 @@ namespace _05.TicTacToe
                     lbWinner.Text = "You win!";
                     lbWinner.Visible = true;
                     computerScores++;
+                    UpdateScores(page);
                     return;
                 }
             }
@@ -228,9 +214,9 @@ namespace _05.TicTacToe
                 HighlightWinBoxes(new Position(0, 0), new Position(1, 1), new Position(2, 2));
                 win = true;
             }
-            if (game[1, 2] == ch && game[2, 1] == ch && game[0, 0] == ch)
+            if (game[0, 2] == ch && game[1, 1] == ch && game[2, 0] == ch)
             {
-                HighlightWinBoxes(new Position(1, 2), new Position(2, 1), new Position(0, 0));
+                HighlightWinBoxes(new Position(0, 2), new Position(1, 1), new Position(2, 0));
                 win = true;
             }
             if (win)
@@ -245,6 +231,28 @@ namespace _05.TicTacToe
                 }
             }
             return win;
+        }
+
+        private static void HighlightWinBoxes(Position p1, Position p2, Position p3)
+        {
+            Button btn = new Button();
+            Page page = new Page();
+            if (HttpContext.Current != null)
+            {
+                page = (Page)HttpContext.Current.Handler;
+            }
+            btn = (Button)page.FindControl("Btn" + p1.X + p1.Y);
+            btn.CssClass = "higlightWinBoxes";
+            btn = (Button)page.FindControl("Btn" + p2.X + p2.Y);
+            btn.CssClass = "higlightWinBoxes";
+            btn = (Button)page.FindControl("Btn" + p3.X + p3.Y);
+            btn.CssClass = "higlightWinBoxes";
+        }
+
+        protected void Btn_Click(object sender, EventArgs e)
+        {
+            string btnId = ((Button)sender).ID;
+            GetInput(btnId);
         }
 
         protected void BtnStartNewGame_Click(object sender, EventArgs e)
