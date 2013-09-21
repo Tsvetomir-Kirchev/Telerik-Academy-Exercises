@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\03.ShowEnteredText\bin\03.ShowEnteredText.dll.config
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\03.ShowEnteredText\bin\03.ShowEnteredText.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\03.ShowEnteredText\bin\03.ShowEnteredText.pdb
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\03.ShowEnteredText\obj\Debug\03.ShowEnteredText.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\03.ShowEnteredText\obj\Debug\03.ShowEnteredText.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\03.ShowEnteredText\obj\Debug\03.ShowEnteredText.pdb

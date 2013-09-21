@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\06.EncodeDecodeStrings\bin\Debug\06.EncodeDecodeStrings.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\06.EncodeDecodeStrings\bin\Debug\06.EncodeDecodeStrings.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\06.EncodeDecodeStrings\bin\Debug\06.EncodeDecodeStrings.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\06.EncodeDecodeStrings\obj\Debug\06.EncodeDecodeStrings.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\06.EncodeDecodeStrings\obj\Debug\06.EncodeDecodeStrings.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\06.EncodeDecodeStrings\obj\Debug\06.EncodeDecodeStrings.pdb

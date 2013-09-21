@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Upcase", "04.Upcase\04.U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ReadString", "05.ReadString\05.ReadString.csproj", "{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EncodeDecodeStrings", "06.EncodeDecodeStrings\06.EncodeDecodeStrings.csproj", "{2E4CEF40-C0FE-42A0-9B53-C7BF160E9FA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABC275C2-6DAB-4B6C-AA22-65EFBCE7E7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4CEF40-C0FE-42A0-9B53-C7BF160E9FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4CEF40-C0FE-42A0-9B53-C7BF160E9FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4CEF40-C0FE-42A0-9B53-C7BF160E9FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4CEF40-C0FE-42A0-9B53-C7BF160E9FA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

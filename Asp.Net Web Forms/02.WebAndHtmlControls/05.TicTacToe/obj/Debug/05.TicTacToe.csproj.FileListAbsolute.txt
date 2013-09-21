@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\05.TicTacToe\bin\05.TicTacToe.dll.config
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\05.TicTacToe\bin\05.TicTacToe.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\05.TicTacToe\bin\05.TicTacToe.pdb
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\05.TicTacToe\obj\Debug\05.TicTacToe.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\05.TicTacToe\obj\Debug\05.TicTacToe.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\05.TicTacToe\obj\Debug\05.TicTacToe.pdb

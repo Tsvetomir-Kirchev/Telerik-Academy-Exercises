@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\03.DumpingEvents\bin\03.DumpingEvents.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\03.DumpingEvents\bin\03.DumpingEvents.pdb
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\03.DumpingEvents\obj\Debug\03.DumpingEvents.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\03.DumpingEvents\obj\Debug\03.DumpingEvents.pdb
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\03.DumpingEvents\obj\Debug\03.DumpingEvents.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\03.DumpingEvents\bin\03.DumpingEvents.dll.config

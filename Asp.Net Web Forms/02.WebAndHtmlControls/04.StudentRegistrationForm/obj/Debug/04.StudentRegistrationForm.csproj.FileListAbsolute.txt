@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\04.StudentRegistrationForm\bin\04.StudentRegistrationForm.dll.config
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\04.StudentRegistrationForm\bin\04.StudentRegistrationForm.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\04.StudentRegistrationForm\bin\04.StudentRegistrationForm.pdb
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\04.StudentRegistrationForm\obj\Debug\04.StudentRegistrationForm.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\04.StudentRegistrationForm\obj\Debug\04.StudentRegistrationForm.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\04.StudentRegistrationForm\obj\Debug\04.StudentRegistrationForm.pdb

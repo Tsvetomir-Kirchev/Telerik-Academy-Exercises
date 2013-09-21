@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\02.PrintAssemblyLocation\bin\02.PrintAssemblyLocation.dll.config
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\02.PrintAssemblyLocation\bin\02.PrintAssemblyLocation.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\02.PrintAssemblyLocation\bin\02.PrintAssemblyLocation.pdb
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\02.PrintAssemblyLocation\obj\Debug\02.PrintAssemblyLocation.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\02.PrintAssemblyLocation\obj\Debug\02.PrintAssemblyLocation.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\01.IntroToAspNetWebforms\02.PrintAssemblyLocation\obj\Debug\02.PrintAssemblyLocation.pdb

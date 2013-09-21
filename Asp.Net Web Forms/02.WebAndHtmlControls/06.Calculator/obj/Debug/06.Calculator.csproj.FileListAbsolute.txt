@@ -1,0 +1,6 @@
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\06.Calculator\bin\06.Calculator.dll.config
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\06.Calculator\bin\06.Calculator.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\06.Calculator\bin\06.Calculator.pdb
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\06.Calculator\obj\Debug\06.Calculator.csprojResolveAssemblyReference.cache
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\06.Calculator\obj\Debug\06.Calculator.dll
+D:\_Development\Telerik-Academy-Exercises\Asp.Net Web Forms\02.WebAndHtmlControls\06.Calculator\obj\Debug\06.Calculator.pdb
