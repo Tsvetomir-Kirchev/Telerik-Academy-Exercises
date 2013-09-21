@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\08.ReplaceForbiddenWords\bin\Debug\08.ReplaceForbiddenWords.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\08.ReplaceForbiddenWords\bin\Debug\08.ReplaceForbiddenWords.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\08.ReplaceForbiddenWords\bin\Debug\08.ReplaceForbiddenWords.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\08.ReplaceForbiddenWords\obj\Debug\08.ReplaceForbiddenWords.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\08.ReplaceForbiddenWords\obj\Debug\08.ReplaceForbiddenWords.pdb
