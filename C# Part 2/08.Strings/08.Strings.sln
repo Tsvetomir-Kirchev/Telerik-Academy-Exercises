@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ConvertStringToUnicodeCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ReadAndPrintNumbers", "10.ReadAndPrintNumbers\10.ReadAndPrintNumbers.csproj", "{A1DFC3F0-BDFC-404F-980F-03347CE0AF6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ParseUrl", "11.ParseUrl\11.ParseUrl.csproj", "{ED177125-97F3-4CE0-A905-333961E6B11F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{A1DFC3F0-BDFC-404F-980F-03347CE0AF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1DFC3F0-BDFC-404F-980F-03347CE0AF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1DFC3F0-BDFC-404F-980F-03347CE0AF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED177125-97F3-4CE0-A905-333961E6B11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED177125-97F3-4CE0-A905-333961E6B11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED177125-97F3-4CE0-A905-333961E6B11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED177125-97F3-4CE0-A905-333961E6B11F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

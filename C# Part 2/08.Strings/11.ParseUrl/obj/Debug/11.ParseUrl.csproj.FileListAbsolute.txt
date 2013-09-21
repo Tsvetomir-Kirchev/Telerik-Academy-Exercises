@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\11.ParseUrl\bin\Debug\11.ParseUrl.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\11.ParseUrl\bin\Debug\11.ParseUrl.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\11.ParseUrl\bin\Debug\11.ParseUrl.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\11.ParseUrl\obj\Debug\11.ParseUrl.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\11.ParseUrl\obj\Debug\11.ParseUrl.pdb
