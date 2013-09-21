@@ -53,6 +53,7 @@ namespace _14.ReplaceATagWithUrl
             }
             Console.WriteLine("Result: \r\n\"{0}\"", outputHTML.ToString());
         }
+
         static bool IsOpenATag(string currentTag)
         {
             string worckingStr = currentTag.Substring(0, 3);
