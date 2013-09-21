@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.ExtractAllDates", "18.Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.ExtractAllPalindromes", "19.ExtractAllPalindromes\19.ExtractAllPalindromes.csproj", "{A2AAA775-8B14-4C70-B60F-87DC2D635FF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.PrintAllDifferentLetter", "20.PrintAllDifferentLetter\20.PrintAllDifferentLetter.csproj", "{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{A2AAA775-8B14-4C70-B60F-87DC2D635FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2AAA775-8B14-4C70-B60F-87DC2D635FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2AAA775-8B14-4C70-B60F-87DC2D635FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
