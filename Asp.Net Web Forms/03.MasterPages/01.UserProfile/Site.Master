@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="_01.UserProfile.Site" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head runat="server">
+        <title></title>
+        <link href="Content/Site.css" rel="stylesheet" />
+    </head>
+    <body>
+        <form id="form1" runat="server">
+            <div id="wrapper">
+                <header>
+                    <h1>Master Pages</h1>
+                </header>
+                <nav class="clear">
+                    <asp:Repeater ID="RepeaterNavigation" runat="server">
+                        <HeaderTemplate>
+                            <ul>
+                        </HeaderTemplate>
+                        <ItemTemplate>
+                            <li><a href="<%# DataBinder.Eval(Container.DataItem, "Url") %>">
+                                <%# DataBinder.Eval(Container.DataItem, "Name")%></a></li>
+                        </ItemTemplate>
+                        <FooterTemplate>
+                            </ul>
+                        </FooterTemplate>
+                    </asp:Repeater>
+                </nav>
+                <div id="content">
+                    <div id="insideContent">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderBody" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+                <footer class="clear"><div>All rights rserved for me &copy;</div></footer>
+             </div>
+        </form>
+    </body>
+</html>
