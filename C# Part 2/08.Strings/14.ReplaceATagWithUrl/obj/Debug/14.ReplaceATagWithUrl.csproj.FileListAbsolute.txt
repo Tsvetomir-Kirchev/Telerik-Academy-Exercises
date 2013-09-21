@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\14.ReplaceATagWithUrl\bin\Debug\14.ReplaceATagWithUrl.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\14.ReplaceATagWithUrl\bin\Debug\14.ReplaceATagWithUrl.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\14.ReplaceATagWithUrl\bin\Debug\14.ReplaceATagWithUrl.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\14.ReplaceATagWithUrl\obj\Debug\14.ReplaceATagWithUrl.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\14.ReplaceATagWithUrl\obj\Debug\14.ReplaceATagWithUrl.pdb

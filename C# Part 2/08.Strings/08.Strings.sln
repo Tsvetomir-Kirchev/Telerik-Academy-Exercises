@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ReverseWordsInSentence",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.SimpleDictionary", "13.SimpleDictionary\13.SimpleDictionary.csproj", "{9F540A18-38EB-412F-A9AD-C163C135AE72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ReplaceATagWithUrl", "14.ReplaceATagWithUrl\14.ReplaceATagWithUrl.csproj", "{29F93750-8AE2-4E91-9CDB-9FB4910178A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{9F540A18-38EB-412F-A9AD-C163C135AE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F540A18-38EB-412F-A9AD-C163C135AE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F540A18-38EB-412F-A9AD-C163C135AE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F93750-8AE2-4E91-9CDB-9FB4910178A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F93750-8AE2-4E91-9CDB-9FB4910178A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F93750-8AE2-4E91-9CDB-9FB4910178A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F93750-8AE2-4E91-9CDB-9FB4910178A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
