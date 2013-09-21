@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\17.ExtractAllEmails\bin\Debug\17.ExtractAllEmails.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\17.ExtractAllEmails\bin\Debug\17.ExtractAllEmails.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\17.ExtractAllEmails\bin\Debug\17.ExtractAllEmails.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\17.ExtractAllEmails\obj\Debug\17.ExtractAllEmails.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\17.ExtractAllEmails\obj\Debug\17.ExtractAllEmails.pdb
