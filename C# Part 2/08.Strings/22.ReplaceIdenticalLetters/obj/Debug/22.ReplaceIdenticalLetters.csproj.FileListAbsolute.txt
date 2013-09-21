@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\22.ReplaceIdenticalLetters\bin\Debug\22.ReplaceIdenticalLetters.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\22.ReplaceIdenticalLetters\bin\Debug\22.ReplaceIdenticalLetters.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\22.ReplaceIdenticalLetters\bin\Debug\22.ReplaceIdenticalLetters.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\22.ReplaceIdenticalLetters\obj\Debug\22.ReplaceIdenticalLetters.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\22.ReplaceIdenticalLetters\obj\Debug\22.ReplaceIdenticalLetters.pdb
