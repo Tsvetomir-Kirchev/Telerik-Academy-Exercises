@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\19.ExtractAllPalindromes\bin\Debug\19.ExtractAllPalindromes.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\19.ExtractAllPalindromes\bin\Debug\19.ExtractAllPalindromes.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\19.ExtractAllPalindromes\bin\Debug\19.ExtractAllPalindromes.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\19.ExtractAllPalindromes\obj\Debug\19.ExtractAllPalindromes.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\19.ExtractAllPalindromes\obj\Debug\19.ExtractAllPalindromes.pdb
