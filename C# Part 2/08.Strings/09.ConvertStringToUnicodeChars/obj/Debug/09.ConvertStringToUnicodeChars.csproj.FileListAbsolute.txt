@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\09.ConvertStringToUnicodeChars\bin\Debug\09.ConvertStringToUnicodeChars.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\09.ConvertStringToUnicodeChars\bin\Debug\09.ConvertStringToUnicodeChars.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\09.ConvertStringToUnicodeChars\bin\Debug\09.ConvertStringToUnicodeChars.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\09.ConvertStringToUnicodeChars\obj\Debug\09.ConvertStringToUnicodeChars.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\09.ConvertStringToUnicodeChars\obj\Debug\09.ConvertStringToUnicodeChars.pdb
