@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.ListAllDifferentWords", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.ReplaceIdenticalLetters", "22.ReplaceIdenticalLetters\22.ReplaceIdenticalLetters.csproj", "{17A72176-54C5-4EE6-930A-1CF26E012600}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.SortWords", "24.SortWords\24.SortWords.csproj", "{9CE0CAA1-3E1E-4462-9636-68D16607B028}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,10 @@ Global
 		{17A72176-54C5-4EE6-930A-1CF26E012600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A72176-54C5-4EE6-930A-1CF26E012600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A72176-54C5-4EE6-930A-1CF26E012600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE0CAA1-3E1E-4462-9636-68D16607B028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE0CAA1-3E1E-4462-9636-68D16607B028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE0CAA1-3E1E-4462-9636-68D16607B028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE0CAA1-3E1E-4462-9636-68D16607B028}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
