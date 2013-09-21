@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\15.DistanceBetweenTwoDates\bin\Debug\15.DistanceBetweenTwoDates.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\15.DistanceBetweenTwoDates\bin\Debug\15.DistanceBetweenTwoDates.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\15.DistanceBetweenTwoDates\bin\Debug\15.DistanceBetweenTwoDates.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\15.DistanceBetweenTwoDates\obj\Debug\15.DistanceBetweenTwoDates.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\15.DistanceBetweenTwoDates\obj\Debug\15.DistanceBetweenTwoDates.pdb
