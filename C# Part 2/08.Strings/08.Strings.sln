@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.ExtractAllPalindromes", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.PrintAllDifferentLetter", "20.PrintAllDifferentLetter\20.PrintAllDifferentLetter.csproj", "{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.ListAllDifferentWords", "21.ListAllDifferentWords\21.ListAllDifferentWords.csproj", "{82106603-0F1F-44DF-81C7-92339FC23725}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,10 @@ Global
 		{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5727FFA4-E4D4-4591-B617-62F8E16E7CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82106603-0F1F-44DF-81C7-92339FC23725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82106603-0F1F-44DF-81C7-92339FC23725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82106603-0F1F-44DF-81C7-92339FC23725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82106603-0F1F-44DF-81C7-92339FC23725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

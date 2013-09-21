@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\21.ListAllDifferentWords\bin\Debug\21.ListAllDifferentWords.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\21.ListAllDifferentWords\bin\Debug\21.ListAllDifferentWords.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\21.ListAllDifferentWords\bin\Debug\21.ListAllDifferentWords.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\21.ListAllDifferentWords\obj\Debug\21.ListAllDifferentWords.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\21.ListAllDifferentWords\obj\Debug\21.ListAllDifferentWords.pdb
