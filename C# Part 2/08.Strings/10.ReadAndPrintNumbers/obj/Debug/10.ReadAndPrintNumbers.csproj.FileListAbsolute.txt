@@ -1,0 +1,5 @@
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\10.ReadAndPrintNumbers\bin\Debug\10.ReadAndPrintNumbers.exe.config
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\10.ReadAndPrintNumbers\bin\Debug\10.ReadAndPrintNumbers.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\10.ReadAndPrintNumbers\bin\Debug\10.ReadAndPrintNumbers.pdb
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\10.ReadAndPrintNumbers\obj\Debug\10.ReadAndPrintNumbers.exe
+D:\_Development\Telerik-Academy-Exercises\C# Part 2\08.Strings\10.ReadAndPrintNumbers\obj\Debug\10.ReadAndPrintNumbers.pdb
