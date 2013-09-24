@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/ParentMaster.Master" AutoEventWireup="true" 
+    CodeBehind="BG.master.cs" Inherits="_02.InternationalCompany.BG.BG" %>
+
+<asp:Content ID="ContentHeader" ContentPlaceHolderID="ContentPlaceHolderHeader" runat="server">
+    <h1>Добре дошли на нашия сайт</h1>
+</asp:Content>
+<asp:Content ID="ContentNav" ContentPlaceHolderID="ContentPlaceHolderNav" runat="server">
+    <ul>
+        <li><a href="~/BG/Home.aspx" runat="server">Начало</a></li>
+        <li><a href="~/BG/About.aspx" runat="server">За нас</a></li>
+        <li><a href="~/BG/Contacts.aspx" runat="server">Контакти</a></li>
+        <li><a href="~/Default.aspx" runat="server">Смяна на езика</a></li>
+    </ul>
+</asp:Content>
+<asp:Content ID="ContentBody" ContentPlaceHolderID="ContentPlaceHolderBody" runat="server">
+    <asp:ContentPlaceHolder ID="Body" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="ContentFooter" ContentPlaceHolderID="ContentPlaceHolderFooter" runat="server">
+    <div>Всички права запазени</div>
+</asp:Content>

@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/ParentMaster.Master" AutoEventWireup="true" 
+    CodeBehind="US.master.cs" Inherits="_02.InternationalCompany.US.US" %>
+
+<asp:Content ID="ContentHeader" runat="server" ContentPlaceHolderID="ContentPlaceHolderHeader">
+    <h1>Welcome to our web site</h1>
+</asp:Content>
+<asp:Content ID="ContentNav" ContentPlaceHolderID="ContentPlaceHolderNav" runat="server">
+    <ul>
+        <li><a href="~/US/Home.aspx" runat="server">Home</a></li>
+        <li><a href="~/US/About.aspx" runat="server">About</a></li>
+        <li><a href="~/US/Contacts.aspx" runat="server">Contacts</a></li>
+        <li><a href="~/Default.aspx" runat="server">Change language</a></li>
+    </ul>
+</asp:Content>
+<asp:Content ID="ContentBody" ContentPlaceHolderID="ContentPlaceHolderBody" runat="server">
+    <asp:ContentPlaceHolder ID="Body" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="ContentFooter" runat="server" ContentPlaceHolderID="ContentPlaceHolderFooter">
+    <div>Copyrights resrverd at ourcompany</div>
+</asp:Content>
