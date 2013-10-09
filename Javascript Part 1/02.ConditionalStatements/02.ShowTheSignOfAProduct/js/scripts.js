@@ -8,7 +8,7 @@ function showSign() {
 	var a = parseInt(document.getElementById("firstNumber").value);
 	var b = parseInt(document.getElementById("secondNumber").value);
 	var c = parseInt(document.getElementById("thirdNumber").value);
-	if((a == Number(a)) && (b == Number(b))) {
+	if((a == Number(a)) && (b == Number(b)) && (c == Number(c))) {
 		if(a == 0 || b == 0 || c == 0) {
 			showMessage("The product is 0");
 			return;
