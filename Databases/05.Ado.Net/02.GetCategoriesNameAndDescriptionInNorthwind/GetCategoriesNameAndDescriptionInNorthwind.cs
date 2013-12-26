@@ -16,8 +16,7 @@ namespace _02.GetCategoriesNameAndDescriptionInNorthwind
 
         public static void PrintCategoriesNamesAndDescription()
         {
-            string connectionString = @"Server=./; Database=Northwind; Integrated Security=True;";
-            SqlConnection conn = new SqlConnection(connectionString);
+            SqlConnection conn = new SqlConnection(Settings.Default.ConnectionString);
             conn.Open();
             using (conn)
             {

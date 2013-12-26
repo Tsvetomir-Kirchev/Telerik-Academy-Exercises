@@ -18,8 +18,7 @@ namespace _01.NumberOfCategoriesInNorthwind
         public static int GetNumberOfRowsInCategories()
         {
             int count = 0;
-            string connectionString = @"Server=./; Database=Northwind; Integrated Security=True;";
-            SqlConnection conn = new SqlConnection(connectionString);
+            SqlConnection conn = new SqlConnection(Settings.Default.ConnectionString);
             conn.Open();
             using (conn)
             {
